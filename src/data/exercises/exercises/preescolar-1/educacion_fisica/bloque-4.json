@@ -1,0 +1,303 @@
+{
+  "grado": "preescolar-1",
+  "materia": "educacion_fisica",
+  "bloque": 4,
+  "nombre": "Habilidades motrices y juegos cooperativos",
+  "meses": "Febrero–Marzo",
+  "temas": [
+    "Lanzar y atrapar",
+    "Saltar obstáculos",
+    "Juegos cooperativos",
+    "Lateralidad: izquierda y derecha"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-ef-b4-v1-001",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para lanzar una pelota lejos, ¿qué parte del cuerpo usas más?",
+        "opciones": [
+          "El brazo y la mano",
+          "Las piernas",
+          "La cabeza",
+          "Las orejas"
+        ],
+        "respuestaCorrecta": "El brazo y la mano",
+        "explicacion": "¡El brazo se estira hacia atrás y lanza hacia adelante! La mano suelta la pelota en el momento justo. 💪⚽",
+        "visual": "🤾"
+      },
+      {
+        "id": "pre1-ef-b4-v1-002",
+        "tema": "Lanzar y atrapar",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para atrapar una pelota, debes mantener los ojos en ella mientras viene.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los ojos siguen la pelota! Eso se llama coordinación ojo-mano. 👁️🤲"
+      },
+      {
+        "id": "pre1-ef-b4-v1-003",
+        "tema": "Saltar obstáculos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué obstáculo puedes saltar con los dos pies juntos?",
+        "opciones": [
+          "Un cono pequeño o una cuerda en el suelo",
+          "Un edificio",
+          "Un carro",
+          "Una montaña"
+        ],
+        "respuestaCorrecta": "Un cono pequeño o una cuerda en el suelo",
+        "explicacion": "¡Conos, cuerdas y aros en el suelo! Empezamos con obstáculos bajitos y vamos subiendo. ¡Paso a paso! 🔺",
+        "visual": "🔺"
+      },
+      {
+        "id": "pre1-ef-b4-v1-004",
+        "tema": "Juegos cooperativos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En un juego cooperativo no hay ganadores ni perdedores — todos ganan si trabajan juntos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Los juegos cooperativos nos enseñan que juntos podemos lograr más. ¡El éxito es de todos! 🤝🌟"
+      },
+      {
+        "id": "pre1-ef-b4-v1-005",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué mano escribes o dibujas normalmente?",
+        "opciones": [
+          "Con la mano que me sale más natural (derecha o izquierda)",
+          "Con los pies",
+          "Con la nariz",
+          "Con los ojos"
+        ],
+        "respuestaCorrecta": "Con la mano que me sale más natural (derecha o izquierda)",
+        "explicacion": "¡Tu mano dominante! Algunas personas usan la derecha y otras la izquierda. ¡Ambas están bien! ✋✍️",
+        "visual": "✍️"
+      },
+      {
+        "id": "pre1-ef-b4-v1-006",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Mi mano derecha está del mismo lado que mi pie dere___.",
+        "respuestaCorrecta": "cho",
+        "explicacion": "¡Derecho! La mano derecha y el pie derecho están del mismo lado del cuerpo. 🤚🦶"
+      },
+      {
+        "id": "pre1-ef-b4-v1-007",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué forma tiene una pelota?",
+        "opciones": [
+          "Redonda como una esfera ⚽",
+          "Cuadrada ⬜",
+          "Triangular 🔺",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Redonda como una esfera ⚽",
+        "explicacion": "¡Las pelotas son esféricas (redondas)! Eso hace que puedan rodar y rebotar en todas las direcciones. ⚽🏀",
+        "visual": "⚽"
+      },
+      {
+        "id": "pre1-ef-b4-v1-008",
+        "tema": "Saltar obstáculos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Saltar aros en el suelo es un ejercicio que mejora la coordinación.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Saltar dentro y fuera de los aros hace que tus piernas sean más ágiles y tu cuerpo más coordinado. ⭕🦵"
+      },
+      {
+        "id": "pre1-ef-b4-v1-009",
+        "tema": "Juegos cooperativos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es más importante en un juego cooperativo?",
+        "opciones": [
+          "Que todos participen y se diviertan",
+          "Ganar",
+          "Ser el mejor",
+          "No jugar"
+        ],
+        "respuestaCorrecta": "Que todos participen y se diviertan",
+        "explicacion": "¡Participar y divertirse! En los juegos cooperativos lo importante es trabajar juntos y disfrutar. 🤝😊"
+      },
+      {
+        "id": "pre1-ef-b4-v1-010",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Es normal que algunas personas escriban con la mano izquierda.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Totalmente normal! Las personas que usan la mano izquierda se llaman 'zurdas'. ¡Tienen un talento especial! ✋"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-ef-b4-v2-001",
+        "tema": "Lanzar y atrapar",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando lanzas la pelota con mucha fuerza y velocidad, estás usando la fuer___ de tu brazo.  ",
+        "respuestaCorrecta": "za",
+        "explicacion": "¡Fuerza! Los músculos del brazo se contraen y lanzan la pelota lejos. ¡Puedes mejorar con práctica! 💪"
+      },
+      {
+        "id": "pre1-ef-b4-v2-002",
+        "tema": "Saltar obstáculos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué capacidad física necesitas para saltar alto?  ",
+        "opciones": [
+          "Fuerza en las piernas",
+          "Solo valentía",
+          "Ser muy delgado",
+          "Ser muy alto"
+        ],
+        "respuestaCorrecta": "Fuerza en las piernas",
+        "explicacion": "¡La fuerza de las piernas! Los saltos se practican: cuanto más fuerte son tus piernas, más alto saltas. 🦵⬆️"
+      },
+      {
+        "id": "pre1-ef-b4-v2-003",
+        "tema": "Juegos cooperativos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En el juego del 'paracaídas', todos los niños agarran la tela y la mueven juntos.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El paracaídas! Todos agarran la tela grande y la suben y bajan juntos. ¡Es imposible hacerlo solo! 🪂🤝"
+      },
+      {
+        "id": "pre1-ef-b4-v2-004",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Tu corazón está más hacia qué lado de tu cuerpo?  ",
+        "opciones": [
+          "Hacia la izquierda",
+          "Hacia la derecha",
+          "En el centro exacto",
+          "En la espalda"
+        ],
+        "respuestaCorrecta": "Hacia la izquierda",
+        "explicacion": "¡El corazón está ligeramente a la izquierda! Por eso cuando te pones la mano en el pecho, lo sientes de ese lado. ❤️👈"
+      },
+      {
+        "id": "pre1-ef-b4-v2-005",
+        "tema": "Lanzar y atrapar",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para atrapar mejor, debes poner las manos en forma de 'copa' o 'canasta'.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Las manos en forma de copa! Así se crea un espacio donde la pelota cae y queda atrapada. 🤲⚽"
+      },
+      {
+        "id": "pre1-ef-b4-v2-006",
+        "tema": "Saltar obstáculos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando saltas con un solo pie, estás saltando a la 'pata co___'.  ",
+        "respuestaCorrecta": "ja",
+        "explicacion": "¡Pata coja! Es un salto con un solo pie. ¡Es genial para practicar el equilibrio! 🦶"
+      },
+      {
+        "id": "pre1-ef-b4-v2-007",
+        "tema": "Juegos cooperativos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "'La telaraña' es un juego donde los niños se pasan una bola de estambre. ¿Qué aprenden?  ",
+        "opciones": [
+          "Que todos estamos conectados y cada uno importa",
+          "A romper cosas",
+          "A estar solos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Que todos estamos conectados y cada uno importa",
+        "explicacion": "¡La telaraña muestra que todos estamos conectados! Si uno suelta, la telaraña se rompe. ¡Cada persona importa! 🕸️🤝"
+      },
+      {
+        "id": "pre1-ef-b4-v2-008",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Hacer ejercicios con ambas manos y piernas nos ayuda a ser más coordinados.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Usar ambos lados del cuerpo fortalece la conexión entre los dos hemisferios del cerebro. 🧠💪"
+      },
+      {
+        "id": "pre1-ef-b4-v2-009",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué deporte usa un guante para atrapar la pelota?  ",
+        "opciones": [
+          "Béisbol ⚾",
+          "Fútbol ⚽",
+          "Natación 🏊",
+          "Ciclismo 🚴"
+        ],
+        "respuestaCorrecta": "Béisbol ⚾",
+        "explicacion": "¡El béisbol! El catcher y los jugadores de campo usan guantes para atrapar la pelota que viene muy rápido. ⚾🧤"
+      },
+      {
+        "id": "pre1-ef-b4-v2-010",
+        "tema": "Juegos cooperativos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En los juegos cooperativos, todos ganan cuando trabajan en equi___.  ",
+        "respuestaCorrecta": "po",
+        "explicacion": "¡En equipo! La magia de la cooperación es que el éxito es compartido. ¡Juntos somos más fuertes! 🤝🏆"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-ef-b4-v1-001",
+        "tema": "Lanzar y atrapar",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué lanzas una pelota?",
+        "opciones": [
+          "Brazo y mano",
+          "Piernas",
+          "Cabeza",
+          "Orejas"
+        ],
+        "respuestaCorrecta": "Brazo y mano",
+        "explicacion": "¡El brazo lanza! 💪⚽",
+        "visual": "🤾"
+      },
+      {
+        "id": "pre1-ef-b4-v1-004",
+        "tema": "Juegos cooperativos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En juegos cooperativos todos ganan juntos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todos ganan! 🤝🌟"
+      },
+      {
+        "id": "pre1-ef-b4-v1-005",
+        "tema": "Lateralidad: izquierda y derecha",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué mano escribes?",
+        "opciones": [
+          "La que me sale natural",
+          "Los pies",
+          "La nariz",
+          "Los ojos"
+        ],
+        "respuestaCorrecta": "La que me sale natural",
+        "explicacion": "¡Tu mano favorita! ✍️",
+        "visual": "✍️"
+      }
+    ]
+  },
+  "generado": "2026-03-11T12:25:00.000Z",
+  "version": "4.0-SEP"
+}

@@ -1,0 +1,127 @@
+{
+  "grado": "secundaria-1",
+  "materia": "formacion",
+  "bloque": 1,
+  "nombre": "Identidad y adolescencia",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "¿Quién soy?",
+    "Cambios en la adolescencia"
+  ],
+  "totalEjercicios": 6,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-1-formacion-b1-001",
+        "tema": "¿Quién soy?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
+        "opciones": [
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "secundaria-1-formacion-b1-002",
+        "tema": "¿Quién soy?",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
+      },
+      {
+        "id": "secundaria-1-formacion-b1-003",
+        "tema": "¿Quién soy?",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-1-formacion-b1-v2-001",
+        "tema": "Cambios en la adolescencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
+      },
+      {
+        "id": "secundaria-1-formacion-b1-v2-002",
+        "tema": "Cambios en la adolescencia",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
+      },
+      {
+        "id": "secundaria-1-formacion-b1-v2-003",
+        "tema": "Cambios en la adolescencia",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-1-formacion-b1-001",
+        "tema": "¿Quién soy?",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
+        "opciones": [
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "secundaria-1-formacion-b1-v2-001",
+        "tema": "Cambios en la adolescencia",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
+      },
+      {
+        "id": "secundaria-1-formacion-b1-002",
+        "tema": "¿Quién soy?",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
+      }
+    ]
+  },
+  "generado": "2026-03-26T03:09:52.416Z",
+  "version": "2.0"
+}

@@ -1,0 +1,127 @@
+{
+  "grado": "secundaria-1",
+  "materia": "historia",
+  "bloque": 2,
+  "nombre": "Roma y Edad Media",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "Imperio Romano",
+    "Caída de Roma y feudalismo"
+  ],
+  "totalEjercicios": 6,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-1-historia-b2-001",
+        "tema": "Imperio Romano",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
+        "respuestaCorrecta": "1492",
+        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
+        "opciones": [
+          "1492",
+          "1521",
+          "1810",
+          "1910"
+        ]
+      },
+      {
+        "id": "secundaria-1-historia-b2-002",
+        "tema": "Imperio Romano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
+      },
+      {
+        "id": "secundaria-1-historia-b2-003",
+        "tema": "Imperio Romano",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
+        "respuestaCorrecta": "Tenochtitlán",
+        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-1-historia-b2-v2-001",
+        "tema": "Caída de Roma y feudalismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
+        "respuestaCorrecta": "La Revolución Mexicana",
+        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
+        "opciones": [
+          "La Guerra de Reforma",
+          "La Independencia",
+          "La Revolución Mexicana",
+          "La Guerra Cristera"
+        ]
+      },
+      {
+        "id": "secundaria-1-historia-b2-v2-002",
+        "tema": "Caída de Roma y feudalismo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
+      },
+      {
+        "id": "secundaria-1-historia-b2-v2-003",
+        "tema": "Caída de Roma y feudalismo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
+        "respuestaCorrecta": "España",
+        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-1-historia-b2-001",
+        "tema": "Imperio Romano",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
+        "respuestaCorrecta": "1492",
+        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
+        "opciones": [
+          "1492",
+          "1521",
+          "1810",
+          "1910"
+        ]
+      },
+      {
+        "id": "secundaria-1-historia-b2-v2-001",
+        "tema": "Caída de Roma y feudalismo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
+        "respuestaCorrecta": "La Revolución Mexicana",
+        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
+        "opciones": [
+          "La Guerra de Reforma",
+          "La Independencia",
+          "La Revolución Mexicana",
+          "La Guerra Cristera"
+        ]
+      },
+      {
+        "id": "secundaria-1-historia-b2-002",
+        "tema": "Imperio Romano",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
+      }
+    ]
+  },
+  "generado": "2026-03-26T03:09:52.422Z",
+  "version": "2.0"
+}

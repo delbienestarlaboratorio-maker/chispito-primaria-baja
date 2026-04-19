@@ -1,0 +1,231 @@
+{
+  "grado": "secundaria-3",
+  "materia": "ingles",
+  "bloque": 1,
+  "nombre": "Science and Discoveries",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Science vocabulary",
+    "Passive voice",
+    "Relative clauses",
+    "Reporting discoveries"
+  ],
+  "totalEjercicios": 14,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-3-ingles-b1-001",
+        "tema": "Science vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
+        "opciones": [
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-002",
+        "tema": "Science vocabulary",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
+      },
+      {
+        "id": "secundaria-3-ingles-b1-003",
+        "tema": "Science vocabulary",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "The opposite of \"hot\" is ___",
+        "respuestaCorrecta": "cold",
+        "explicacion": "\"Hot\" and \"cold\" are antonyms (opposite words) used to describe temperature."
+      },
+      {
+        "id": "secundaria-3-ingles-b1-004",
+        "tema": "Science vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Which word is an adjective in: \"The red apple is delicious\"?",
+        "respuestaCorrecta": "red",
+        "explicacion": "\"Red\" describes the noun \"apple\", making it an adjective. \"Delicious\" is also an adjective but modifies a predicate.",
+        "opciones": [
+          "apple",
+          "is",
+          "red",
+          "delicious"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-005",
+        "tema": "Science vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "How do you say \"buenos días\" in English?",
+        "respuestaCorrecta": "Good morning",
+        "explicacion": "\"Good morning\" is the greeting used in the morning hours (before noon).",
+        "opciones": [
+          "Good night",
+          "Good evening",
+          "Good afternoon",
+          "Good morning"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-006",
+        "tema": "Science vocabulary",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "In English, nouns are capitalized only at the beginning of a sentence",
+        "respuestaCorrecta": "true",
+        "explicacion": "Unlike German, English only capitalizes nouns at the start of sentences, names, titles, and proper nouns."
+      },
+      {
+        "id": "secundaria-3-ingles-b1-007",
+        "tema": "Science vocabulary",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "I ___ reading a book right now. (present progressive)",
+        "respuestaCorrecta": "am",
+        "explicacion": "Present progressive: subject + am/is/are + verb-ing. \"I am reading\" = action happening now."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-3-ingles-b1-v2-001",
+        "tema": "Reporting discoveries",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence uses the past perfect correctly?  ",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
+        "opciones": [
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-002",
+        "tema": "Reporting discoveries",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "A clause with \"although\" always introduces a contrast or concession  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "\"Although\" introduces a subordinate clause that presents a contrast: \"Although it was raining, we went out.\""
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-003",
+        "tema": "Reporting discoveries",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "What is the function of a relative clause introduced by \"who\"?  ",
+        "respuestaCorrecta": "Modify a person noun",
+        "explicacion": "\"Who\" introduces relative clauses that provide more information about a person: \"The man who called is my uncle.\"",
+        "opciones": [
+          "Describe a time",
+          "Modify a person noun",
+          "Express a condition",
+          "Show a result"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-004",
+        "tema": "Reporting discoveries",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "If I ___ (study) harder, I would pass the exam. (second conditional)  ",
+        "respuestaCorrecta": "studied",
+        "explicacion": "Second conditional: If + simple past, would + base verb. Expresses hypothetical/unlikely situations."
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-005",
+        "tema": "Reporting discoveries",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which word best replaces \"big\" in a formal academic text?  ",
+        "respuestaCorrecta": "Substantial",
+        "explicacion": "\"Substantial\" is the most appropriate formal synonym for \"large/big\" in academic writing.",
+        "opciones": [
+          "Huge",
+          "Enormous",
+          "Substantial",
+          "Giant"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-006",
+        "tema": "Reporting discoveries",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "The passive voice is formed with the verb \"to be\" + past participle  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Passive voice: subject + to be (conjugated) + past participle. E.g., \"The book was written by Cervantes.\""
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-007",
+        "tema": "Reporting discoveries",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "What does the prefix \"un-\" mean in \"unhappy\" or \"unusual\"?  ",
+        "respuestaCorrecta": "Not or opposite",
+        "explicacion": "The prefix \"un-\" negates or reverses the meaning: unhappy = not happy, unusual = not usual.",
+        "opciones": [
+          "Again",
+          "More than",
+          "Not or opposite",
+          "Before"
+        ]
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-3-ingles-b1-001",
+        "tema": "Science vocabulary",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "What is the plural form of \"child\"?",
+        "respuestaCorrecta": "Children",
+        "explicacion": "\"Children\" is the irregular plural of \"child\". Irregular plurals don't follow the standard -s rule.",
+        "opciones": [
+          "Childs",
+          "Children",
+          "Childes",
+          "Childre"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-v2-001",
+        "tema": "Reporting discoveries",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Which sentence uses the past perfect correctly?",
+        "respuestaCorrecta": "She had eaten before he arrived",
+        "explicacion": "Past perfect (had + past participle) describes an action completed before another past action.",
+        "opciones": [
+          "She has eaten before he arrived",
+          "She had eaten before he arrived",
+          "She was eating before he arrived",
+          "She ate before he was arriving"
+        ]
+      },
+      {
+        "id": "secundaria-3-ingles-b1-002",
+        "tema": "Science vocabulary",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "The sentence \"She go to school\" is grammatically correct",
+        "respuestaCorrecta": "false",
+        "explicacion": "Correct form: \"She goes to school.\" Third person singular (he/she/it) adds -s/-es to the verb in simple present."
+      }
+    ]
+  },
+  "generado": "2026-03-26T02:58:37.838Z",
+  "version": "2.0"
+}

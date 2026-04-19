@@ -1,0 +1,129 @@
+{
+  "grado": "telesecundaria-1",
+  "materia": "proyectos_nem",
+  "bloque": 4,
+  "nombre": "Proyecto Integrador",
+  "meses": "Mayo-Junio",
+  "temas": [
+    "Elección del tema interdisciplinario",
+    "Desarrollo y documentación",
+    "Presentación ante la comunidad",
+    "Reflexión y autoevaluación"
+  ],
+  "totalEjercicios": 6,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-001",
+        "tema": "Elección del tema interdisciplinario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
+        "opciones": [
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-002",
+        "tema": "Elección del tema interdisciplinario",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-003",
+        "tema": "Elección del tema interdisciplinario",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La capacidad de ponerse en el lugar de los demás y comprender sus sentimientos se llama ___",
+        "respuestaCorrecta": "empatía",
+        "explicacion": "La empatía es fundamental para la convivencia social."
+      }
+    ],
+    "v2": [
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-v2-001",
+        "tema": "Reflexión y autoevaluación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?  ",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-v2-002",
+        "tema": "Reflexión y autoevaluación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La cultura de la legalidad promueve que la gente decida cuáles reglas cumplir y cuáles ignorar  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La cultura de la legalidad implica conocer, respetar y cumplir las leyes por convicción."
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-v2-003",
+        "tema": "Reflexión y autoevaluación",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El sistema de gobierno en el cual los ciudadanos eligen a sus representantes es una ___  ",
+        "respuestaCorrecta": "democracia",
+        "explicacion": "Proviene del griego \"demos\" (pueblo) y \"kratos\" (poder)."
+      }
+    ],
+    "preview": [
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-001",
+        "tema": "Elección del tema interdisciplinario",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué documento establece los derechos fundamentales de todos los mexicanos?",
+        "respuestaCorrecta": "La Constitución Política",
+        "explicacion": "La Constitución de 1917 rige la vida jurídica de México.",
+        "opciones": [
+          "El Código Penal",
+          "La Biblia",
+          "La Constitución Política",
+          "El Reglamento de Tránsito"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-v2-001",
+        "tema": "Reflexión y autoevaluación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es la \"separación de poderes\"?",
+        "respuestaCorrecta": "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+        "explicacion": "Este principio busca evitar la concentración de poder y garantizar el equilibrio y la libertad.",
+        "opciones": [
+          "Dividir a la policía y al ejército",
+          "Dividir el país en estados",
+          "Distribuir las funciones del estado en Poder Ejecutivo, Legislativo y Judicial",
+          "Separar a los niños por edades en las escuelas"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-proyectos_nem-b4-002",
+        "tema": "Elección del tema interdisciplinario",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Discriminar significa tratar a todos por igual",
+        "respuestaCorrecta": "false",
+        "explicacion": "Discriminar significa dar un trato desigual y perjudicial a alguien por motivos de raza, sexo, ideas, etc."
+      }
+    ]
+  },
+  "generado": "2026-03-26T03:11:48.166Z",
+  "version": "2.0"
+}

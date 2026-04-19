@@ -1,0 +1,322 @@
+{
+  "grado": "preescolar-1",
+  "materia": "espanol",
+  "bloque": 3,
+  "nombre": "Cuentos, descripciones y nuevas palabras",
+  "libroSep": "K1MLA",
+  "paginasLibro": "56-80",
+  "meses": "Diciembre–Enero",
+  "temas": [
+    "Describir personas y animales",
+    "Contar historias cortas",
+    "Vocabulario: colores",
+    "Instrucciones y secuencias"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-esp-b3-v1-001",
+        "tema": "Describir personas y animales",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo describes a un perro?",
+        "opciones": [
+          "Tiene 4 patas, cola y ladra 🐕",
+          "Tiene alas y vuela 🐦",
+          "Vive en el agua 🐟",
+          "No se puede"
+        ],
+        "respuestaCorrecta": "Tiene 4 patas, cola y ladra 🐕",
+        "explicacion": "¡Describir es decir cómo es algo! El perro tiene 4 patas, cola y ladra. 🐕",
+        "visual": "🐕"
+      },
+      {
+        "id": "pre1-esp-b3-v1-002",
+        "tema": "Describir personas y animales",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Describir es decir cómo se ve o suena algo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Describir usa palabras para pintar imágenes. 🎨🗣️"
+      },
+      {
+        "id": "pre1-esp-b3-v1-003",
+        "tema": "Contar historias cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Toda historia tiene inicio, problema y...",
+        "opciones": [
+          "Final ✨",
+          "Otro inicio",
+          "Otro problema",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Final ✨",
+        "explicacion": "¡Un final! Inicio → problema → final. 📖✨"
+      },
+      {
+        "id": "pre1-esp-b3-v1-004",
+        "tema": "Vocabulario: colores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De qué color es el cielo soleado?",
+        "opciones": [
+          "Azul 🔵",
+          "Rojo 🔴",
+          "Negro ⚫",
+          "Morado 🟣"
+        ],
+        "respuestaCorrecta": "Azul 🔵",
+        "explicacion": "¡Azul! ☀️🔵",
+        "visual": "☀️"
+      },
+      {
+        "id": "pre1-esp-b3-v1-005",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para lavarte las manos: ¿qué va PRIMERO?",
+        "opciones": [
+          "Mojarme 💧",
+          "Enjuagarme",
+          "Secarme",
+          "Enjabonarme"
+        ],
+        "respuestaCorrecta": "Mojarme 💧",
+        "explicacion": "¡Primero mojar! Las instrucciones tienen orden. 💧🧼",
+        "visual": "💧"
+      },
+      {
+        "id": "pre1-esp-b3-v1-006",
+        "tema": "Describir personas y animales",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El elefante tiene una trompa lar___.",
+        "respuestaCorrecta": "ga",
+        "explicacion": "¡Larga! Esa es una característica del elefante. 🐘"
+      },
+      {
+        "id": "pre1-esp-b3-v1-007",
+        "tema": "Contar historias cortas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Puedo inventar mis propios cuentos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Tu imaginación es infinita! 🐉🚀🧚",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 65
+        }
+      },
+      {
+        "id": "pre1-esp-b3-v1-008",
+        "tema": "Vocabulario: colores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De qué color es una fresa? 🍓",
+        "opciones": [
+          "Roja 🔴",
+          "Azul 🔵",
+          "Verde 🟢",
+          "Amarilla 🟡"
+        ],
+        "respuestaCorrecta": "Roja 🔴",
+        "explicacion": "¡Las fresas son rojas! 🍓🔴",
+        "visual": "🍓"
+      },
+      {
+        "id": "pre1-esp-b3-v1-009",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las instrucciones nos dicen los pasos en orden.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Primero, luego, después. 📝👨‍🍳"
+      },
+      {
+        "id": "pre1-esp-b3-v1-010",
+        "tema": "Vocabulario: colores",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Azul 🔵 + amarillo 🟡 = ver___.",
+        "respuestaCorrecta": "de",
+        "explicacion": "¡Verde! 🔵+🟡=🟢"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-esp-b3-v2-001",
+        "tema": "Describir personas y animales",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras que dicen CÓMO es algo se llaman adje___.  ",
+        "respuestaCorrecta": "tivo",
+        "explicacion": "¡Adjetivo! Grande, bonito, rápido, azul. 📝"
+      },
+      {
+        "id": "pre1-esp-b3-v2-002",
+        "tema": "Contar historias cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En los Tres Cochinitos, ¿cuántas casas construyeron?  ",
+        "opciones": [
+          "3: paja, madera y ladrillos",
+          "1",
+          "5",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "3: paja, madera y ladrillos",
+        "explicacion": "¡3 casas! Solo la de ladrillos resistió. 🐷🧱"
+      },
+      {
+        "id": "pre1-esp-b3-v2-003",
+        "tema": "Vocabulario: colores",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Los 3 colores primarios son...  ",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Verde, morado y naranja",
+          "Blanco, negro y gris",
+          "Rosa, café y dorado"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Con estos 3 haces TODOS los colores! 🔴🔵🟡"
+      },
+      {
+        "id": "pre1-esp-b3-v2-004",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué palabras ordenan instrucciones?  ",
+        "opciones": [
+          "Primero, luego, después, finalmente",
+          "Hola, adiós",
+          "Sí, no",
+          "Grande, pequeño"
+        ],
+        "respuestaCorrecta": "Primero, luego, después, finalmente",
+        "explicacion": "¡Palabras de secuencia! 1️⃣2️⃣3️⃣4️⃣"
+      },
+      {
+        "id": "pre1-esp-b3-v2-005",
+        "tema": "Describir personas y animales",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "'El gato gordo y negro' — estoy describiendo al gato.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Gordo y negro son adjetivos! 🐱🖌️"
+      },
+      {
+        "id": "pre1-esp-b3-v2-006",
+        "tema": "Contar historias cortas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Quien escribe cuentos es el au___.  ",
+        "respuestaCorrecta": "tor",
+        "explicacion": "¡Autor! Tú puedes ser autor de tus cuentos. ✍️📖"
+      },
+      {
+        "id": "pre1-esp-b3-v2-007",
+        "tema": "Vocabulario: colores",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Rojo 🔴 + azul 🔵 = mora___.  ",
+        "respuestaCorrecta": "do",
+        "explicacion": "¡Morado! 🔴+🔵=🟣"
+      },
+      {
+        "id": "pre1-esp-b3-v2-008",
+        "tema": "Instrucciones y secuencias",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una receta de cocina es un tipo de instrucción.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Tiene pasos en orden. 👨‍🍳📝"
+      },
+      {
+        "id": "pre1-esp-b3-v2-009",
+        "tema": "Describir personas y animales",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Los 5 sentidos para describir?  ",
+        "opciones": [
+          "Vista, oído, olfato, gusto, tacto",
+          "Solo vista",
+          "Solo oído",
+          "Solo gusto"
+        ],
+        "respuestaCorrecta": "Vista, oído, olfato, gusto, tacto",
+        "explicacion": "¡5 sentidos! 👁️👂👃👅✋"
+      },
+      {
+        "id": "pre1-esp-b3-v2-010",
+        "tema": "Contar historias cortas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El problema de la historia se llama...  ",
+        "opciones": [
+          "Nudo o conflicto",
+          "Inicio",
+          "Final",
+          "Título"
+        ],
+        "respuestaCorrecta": "Nudo o conflicto",
+        "explicacion": "¡El nudo! Sin problema no hay cuento. 😰📖"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-esp-b3-v1-001",
+        "tema": "Describir",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo describes un perro?",
+        "opciones": [
+          "4 patas, ladra 🐕",
+          "Vuela 🐦",
+          "Nada 🐟",
+          "No sé"
+        ],
+        "respuestaCorrecta": "4 patas, ladra 🐕",
+        "explicacion": "🐕",
+        "visual": "🐕"
+      },
+      {
+        "id": "pre1-esp-b3-v1-004",
+        "tema": "Colores",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Color del cielo?",
+        "opciones": [
+          "Azul 🔵",
+          "Rojo 🔴",
+          "Negro ⚫",
+          "Morado 🟣"
+        ],
+        "respuestaCorrecta": "Azul 🔵",
+        "explicacion": "☀️🔵",
+        "visual": "☀️"
+      },
+      {
+        "id": "pre1-esp-b3-v1-003",
+        "tema": "Historias",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Las historias tienen inicio, problema y...",
+        "opciones": [
+          "Final ✨",
+          "Otro inicio",
+          "Nada",
+          "Problema"
+        ],
+        "respuestaCorrecta": "Final ✨",
+        "explicacion": "📖✨"
+      }
+    ]
+  },
+  "generado": "2026-03-11T13:15:00.000Z",
+  "version": "4.0-SEP"
+}

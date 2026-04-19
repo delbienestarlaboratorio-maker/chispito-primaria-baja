@@ -1,0 +1,241 @@
+{
+  "grado": "kinder",
+  "materia": "conocimiento",
+  "bloque": 2,
+  "nombre": "Mi familia y mi casa",
+  "meses": "Septiembre-Octubre",
+  "temas": [
+    "Miembros de la familia",
+    "La casa y sus espacios"
+  ],
+  "totalEjercicios": 14,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "kinder-conocimiento-b2-001",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-002",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-003",
+        "tema": "Miembros de la familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "respuestaCorrecta": "true",
+        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+      },
+      {
+        "id": "kinder-conocimiento-b2-004",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
+        "respuestaCorrecta": "ver",
+        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
+      },
+      {
+        "id": "kinder-conocimiento-b2-005",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas son partes del cuerpo?",
+        "respuestaCorrecta": "Brazo, pierna, cabeza",
+        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "opciones": [
+          "Mesa, silla, puerta",
+          "Brazo, pierna, cabeza",
+          "Libro, cuaderno, lápiz",
+          "Casa, árbol, nube"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-006",
+        "tema": "Miembros de la familia",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El perro y el gato son animales domésticos",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+      },
+      {
+        "id": "kinder-conocimiento-b2-007",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué le da energía a las plantas para crecer?",
+        "respuestaCorrecta": "El Sol",
+        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
+        "opciones": [
+          "La luna",
+          "La lluvia ácida",
+          "El Sol",
+          "El viento"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-008",
+        "tema": "Miembros de la familia",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
+        "respuestaCorrecta": "aire",
+        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+      }
+    ],
+    "v2": [
+      {
+        "id": "kinder-conocimiento-b2-v2-001",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "opciones": [
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-v2-002",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
+        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
+        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
+        "opciones": [
+          "Solo papá y mamá",
+          "Papá, mamá e hijos",
+          "Abuelos, tíos, primos y más parientes",
+          "Solo los vecinos"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-v2-003",
+        "tema": "La casa y sus espacios",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+      },
+      {
+        "id": "kinder-conocimiento-b2-v2-004",
+        "tema": "La casa y sus espacios",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las plantas producen el ___ que respiramos  ",
+        "respuestaCorrecta": "oxígeno",
+        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+      },
+      {
+        "id": "kinder-conocimiento-b2-v2-005",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
+        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
+        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "opciones": [
+          "Solo dormir",
+          "Comer comida chatarra",
+          "Comer bien, hacer ejercicio y dormir suficiente",
+          "Solo tomar vitaminas"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-v2-006",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De dónde viene el agua que tomamos?  ",
+        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
+        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
+        "opciones": [
+          "Del cielo directamente",
+          "De ríos, lagos y pozos que se purifica",
+          "Solo del mar",
+          "De las nubes sin purificar"
+        ]
+      }
+    ],
+    "preview": [
+      {
+        "id": "kinder-conocimiento-b2-001",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-v2-001",
+        "tema": "La casa y sus espacios",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "opciones": [
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
+      },
+      {
+        "id": "kinder-conocimiento-b2-002",
+        "tema": "Miembros de la familia",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
+      }
+    ]
+  },
+  "generado": "2026-03-26T02:58:37.532Z",
+  "version": "2.0"
+}

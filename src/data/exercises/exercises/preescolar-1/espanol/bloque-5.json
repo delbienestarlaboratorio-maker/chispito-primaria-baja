@@ -1,0 +1,326 @@
+{
+  "grado": "preescolar-1",
+  "materia": "espanol",
+  "bloque": 5,
+  "nombre": "Teatro, poesía y comunicación",
+  "libroSep": "K1MLA",
+  "paginasLibro": "121-160",
+  "meses": "Abril–Junio",
+  "temas": [
+    "Poesía y versos",
+    "Teatro y diálogos",
+    "Expresar sentimientos",
+    "Comunicar ideas claras"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-esp-b5-v1-001",
+        "tema": "Poesía y versos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un poema está hecho de...",
+        "opciones": [
+          "Versos (frases bonitas que a veces riman) 🎵",
+          "Números",
+          "Solo dibujos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Versos (frases bonitas que a veces riman) 🎵",
+        "explicacion": "¡Versos! Los poemas usan palabras bonitas que a veces riman. Son como canciones sin música. 🎵📜",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 125
+        }
+      },
+      {
+        "id": "pre1-esp-b5-v1-002",
+        "tema": "Poesía y versos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Los poemas pueden hablar de la naturaleza, el amor, los animales o los sentimientos.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los poemas hablan de todo lo que nos importa y nos emociona. 🌸❤️🐱😊"
+      },
+      {
+        "id": "pre1-esp-b5-v1-003",
+        "tema": "Teatro y diálogos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En una obra de teatro, los actores...",
+        "opciones": [
+          "Actúan como personajes y dicen diálogos 🎭",
+          "Solo duermen",
+          "Solo comen",
+          "Solo ven televisión"
+        ],
+        "respuestaCorrecta": "Actúan como personajes y dicen diálogos 🎭",
+        "explicacion": "¡Los actores interpretan personajes! Hablan, se mueven y cuentan una historia en vivo. 🎭🎪",
+        "visual": "🎭"
+      },
+      {
+        "id": "pre1-esp-b5-v1-004",
+        "tema": "Expresar sentimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si estoy feliz, ¿qué cara pongo?",
+        "opciones": [
+          "😊 Sonrío",
+          "😢 Lloro",
+          "😡 Me enojo",
+          "😴 Duermo"
+        ],
+        "respuestaCorrecta": "😊 Sonrío",
+        "explicacion": "¡Sonreír! Cuando estamos felices, sonreímos. ¡Es importante saber expresar cómo nos sentimos! 😊",
+        "visual": "😊"
+      },
+      {
+        "id": "pre1-esp-b5-v1-005",
+        "tema": "Comunicar ideas claras",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Para que me entiendan, debo hablar claro y con palabras que conozco.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Comunicar bien es decir las cosas con palabras claras, mirando a los ojos y en voz para que te escuchen. 🗣️👀"
+      },
+      {
+        "id": "pre1-esp-b5-v1-006",
+        "tema": "Poesía y versos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las palabras bonitas y ordenadas de un poema se llaman ver___.",
+        "respuestaCorrecta": "sos",
+        "explicacion": "¡Versos! Cada línea de un poema es un verso. 📜"
+      },
+      {
+        "id": "pre1-esp-b5-v1-007",
+        "tema": "Teatro y diálogos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un diálogo es cuando 2 o más personas platican.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Diálogo = plática entre personas. En el teatro, los personajes hablan con diálogos. 🗣️🗣️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 140
+        }
+      },
+      {
+        "id": "pre1-esp-b5-v1-008",
+        "tema": "Expresar sentimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Está bien sentirse triste a veces?",
+        "opciones": [
+          "Sí, todos los sentimientos son válidos 💙",
+          "No, nunca",
+          "Solo los adultos se sienten tristes",
+          "No existe la tristeza"
+        ],
+        "respuestaCorrecta": "Sí, todos los sentimientos son válidos 💙",
+        "explicacion": "¡Todos los sentimientos son válidos! Alegría, tristeza, miedo, enojo... Lo importante es aprender a expresarlos. 💙"
+      },
+      {
+        "id": "pre1-esp-b5-v1-009",
+        "tema": "Comunicar ideas claras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué dices cuando necesitas algo?",
+        "opciones": [
+          "'Por favor' 🙏",
+          "Grito fuerte",
+          "No digo nada",
+          "Me enojo"
+        ],
+        "respuestaCorrecta": "'Por favor' 🙏",
+        "explicacion": "¡'Por favor'! Las palabras mágicas abren puertas: por favor, gracias, perdón. ¡Son la base de la comunicación respetuosa! 🙏"
+      },
+      {
+        "id": "pre1-esp-b5-v1-010",
+        "tema": "Teatro y diálogos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La carita 🎭 representa el tea___.",
+        "respuestaCorrecta": "tro",
+        "explicacion": "¡Teatro! Las máscaras de comedia y tragedia representan el teatro. 🎭",
+        "visual": "🎭"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-esp-b5-v2-001",
+        "tema": "Poesía y versos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es un verso de poesía?  ",
+        "opciones": [
+          "'La mariposa vuela entre las flores' 🦋🌸",
+          "'2 + 2 = 4'",
+          "'Hoy es martes'",
+          "'La mesa es de madera'"
+        ],
+        "respuestaCorrecta": "'La mariposa vuela entre las flores' 🦋🌸",
+        "explicacion": "¡Poesía! Usa palabras bonitas que crean imágenes en la mente. 🦋🌸📜"
+      },
+      {
+        "id": "pre1-esp-b5-v2-002",
+        "tema": "Teatro y diálogos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En las obras de teatro, el texto que dicen los actores se llama gui___.  ",
+        "respuestaCorrecta": "ón",
+        "explicacion": "¡Guión! Es el texto con los diálogos que los actores memorizan y dicen en escena. 📝🎭"
+      },
+      {
+        "id": "pre1-esp-b5-v2-003",
+        "tema": "Expresar sentimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son emociones básicas?  ",
+        "opciones": [
+          "Alegría, tristeza, miedo, enojo, sorpresa",
+          "Solo alegría",
+          "Solo enojo",
+          "No existen las emociones"
+        ],
+        "respuestaCorrecta": "Alegría, tristeza, miedo, enojo, sorpresa",
+        "explicacion": "¡5 emociones básicas! 😊😢😨😡😲 Todas son normales y necesarias. ¡No hay emociones malas!"
+      },
+      {
+        "id": "pre1-esp-b5-v2-004",
+        "tema": "Comunicar ideas claras",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Escuchar es tan importante como hablar en una conversación.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La comunicación tiene dos partes: hablar Y escuchar. Sin escuchar no hay diálogo. 🗣️👂"
+      },
+      {
+        "id": "pre1-esp-b5-v2-005",
+        "tema": "Poesía y versos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un poema puede ser corto, de 2 o 3 versos nada más.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los haikus japoneses tienen solo 3 versos. Un poema puede ser cortito y muy bonito. 📜✨"
+      },
+      {
+        "id": "pre1-esp-b5-v2-006",
+        "tema": "Teatro y diálogos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué tipo de títere se maneja con hilos?  ",
+        "opciones": [
+          "Marioneta 🪆",
+          "Títere de guante",
+          "Títere de sombra",
+          "Títere de dedo"
+        ],
+        "respuestaCorrecta": "Marioneta 🪆",
+        "explicacion": "¡Marioneta! Se mueve con hilos desde arriba. ¡Es arte y teatro combinados! 🪆🎪",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 36
+        }
+      },
+      {
+        "id": "pre1-esp-b5-v2-007",
+        "tema": "Expresar sentimientos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Decir cómo me siento se llama expre___.  ",
+        "respuestaCorrecta": "sar",
+        "explicacion": "¡Expresar! Expresar mis sentimientos es sano y me ayuda a sentirme mejor. 💚🗣️"
+      },
+      {
+        "id": "pre1-esp-b5-v2-008",
+        "tema": "Comunicar ideas claras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las '3 palabras mágicas'?  ",
+        "opciones": [
+          "Por favor, gracias, perdón",
+          "1, 2, 3",
+          "A, B, C",
+          "Sí, no, tal vez"
+        ],
+        "respuestaCorrecta": "Por favor, gracias, perdón",
+        "explicacion": "¡Por favor, gracias y perdón! Son la base de la comunicación amable y respetuosa. 🙏🤝"
+      },
+      {
+        "id": "pre1-esp-b5-v2-009",
+        "tema": "Poesía y versos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La persona que escribe poemas se llama poe___.  ",
+        "respuestaCorrecta": "ta",
+        "explicacion": "¡Poeta! Los poetas escriben con el corazón. ¡Tú también puedes ser poeta! ✍️❤️"
+      },
+      {
+        "id": "pre1-esp-b5-v2-010",
+        "tema": "Comunicar ideas claras",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Levantar la mano antes de hablar en clase es una forma de comunicación respetuosa.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Levantar la mano muestra respeto. Así todos tienen turno de hablar y ser escuchados. ✋🏫"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-esp-b5-v1-001",
+        "tema": "Poesía",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un poema está hecho de...",
+        "opciones": [
+          "Versos 🎵",
+          "Números",
+          "Dibujos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Versos 🎵",
+        "explicacion": "¡Versos! 📜🎵",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-esp-b5-v1-003",
+        "tema": "Teatro",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En una obra de teatro...",
+        "opciones": [
+          "Actores dicen diálogos 🎭",
+          "Duermen",
+          "Comen",
+          "Ven tele"
+        ],
+        "respuestaCorrecta": "Actores dicen diálogos 🎭",
+        "explicacion": "🎭🎪",
+        "visual": "🎭"
+      },
+      {
+        "id": "pre1-esp-b5-v1-004",
+        "tema": "Sentimientos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si estoy feliz, ¿qué hago?",
+        "opciones": [
+          "Sonrío 😊",
+          "Lloro 😢",
+          "Me enojo 😡",
+          "Duermo 😴"
+        ],
+        "respuestaCorrecta": "Sonrío 😊",
+        "explicacion": "😊",
+        "visual": "😊"
+      }
+    ]
+  },
+  "generado": "2026-03-11T13:25:00.000Z",
+  "version": "4.0-SEP"
+}

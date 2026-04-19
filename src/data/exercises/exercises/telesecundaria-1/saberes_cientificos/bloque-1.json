@@ -1,0 +1,129 @@
+{
+  "grado": "telesecundaria-1",
+  "materia": "saberes_cientificos",
+  "bloque": 1,
+  "nombre": "El mundo natural",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Biodiversidad en México",
+    "Ecosistemas terrestres y acuáticos",
+    "Cadenas y redes alimentarias",
+    "Especies endémicas de mi región"
+  ],
+  "totalEjercicios": 6,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-001",
+        "tema": "Biodiversidad en México",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
+        "opciones": [
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-002",
+        "tema": "Biodiversidad en México",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-003",
+        "tema": "Biodiversidad en México",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El proceso por el cual las plantas fabrican su propio alimento se llama ___",
+        "respuestaCorrecta": "fotosíntesis",
+        "explicacion": "Las plantas utilizan luz solar, agua y dióxido de carbono en este proceso."
+      }
+    ],
+    "v2": [
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-001",
+        "tema": "Especies endémicas de mi región",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?  ",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-002",
+        "tema": "Especies endémicas de mi región",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La fuerza que nos mantiene sobre la superficie de la Tierra es el magnetismo  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "La fuerza responsable es la gravedad, que atrae los cuerpos hacia el centro del planeta."
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-003",
+        "tema": "Especies endémicas de mi región",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El planeta más cercano al Sol en nuestro sistema solar es ___  ",
+        "respuestaCorrecta": "Mercurio",
+        "explicacion": "Mercurio orbita más cerca del Sol que cualquier otro planeta."
+      }
+    ],
+    "preview": [
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-001",
+        "tema": "Biodiversidad en México",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué gas necesitamos los seres humanos para respirar?",
+        "respuestaCorrecta": "Oxígeno",
+        "explicacion": "Las células humanas utilizan el oxígeno para producir energía.",
+        "opciones": [
+          "Dióxido de carbono",
+          "Oxígeno",
+          "Nitrógeno",
+          "Helio"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-v2-001",
+        "tema": "Especies endémicas de mi región",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la unidad básica de la vida estructural y funcional?",
+        "respuestaCorrecta": "La célula",
+        "explicacion": "Todos los organismos vivos están compuestos por una o más células.",
+        "opciones": [
+          "El átomo",
+          "La célula",
+          "El tejido",
+          "El órgano"
+        ]
+      },
+      {
+        "id": "telesecundaria-1-saberes_cientificos-b1-002",
+        "tema": "Biodiversidad en México",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El agua cambia de estado líquido a sólido al calentarse",
+        "respuestaCorrecta": "false",
+        "explicacion": "El agua se vuelve sólida (hielo) al enfriarse por debajo de los 0°C."
+      }
+    ]
+  },
+  "generado": "2026-03-26T03:11:48.167Z",
+  "version": "2.0"
+}

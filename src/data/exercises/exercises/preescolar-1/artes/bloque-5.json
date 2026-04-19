@@ -1,0 +1,327 @@
+{
+  "grado": "preescolar-1",
+  "materia": "artes",
+  "bloque": 5,
+  "nombre": "Mi mundo creativo — Arte para todos",
+  "libroSep": "K1MLA",
+  "paginasLibro": "134-163",
+  "meses": "Abril–Junio",
+  "temas": [
+    "Láminas de arte y cultura",
+    "Arte con materiales reciclados",
+    "Canciones y rondas mexicanas",
+    "Mi museo personal"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-artes-b5-v1-001",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Tu libro tiene láminas de diálogo con obras de arte. ¿Para qué sirven?",
+        "opciones": [
+          "Para observar, platicar y aprender sobre arte",
+          "Para recortar",
+          "Para tirar a la basura",
+          "Para hacer aviones"
+        ],
+        "respuestaCorrecta": "Para observar, platicar y aprender sobre arte",
+        "explicacion": "¡Las láminas son para disfrutar el arte! Las observas con atención y platicas con tu maestra o amigos sobre lo que ves. 👁️🎨",
+        "visual": "🖼️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
+      },
+      {
+        "id": "pre1-artes-b5-v1-002",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Con una caja de cartón vieja puedes crear un castillo, un carro o un robot.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El cartón es perfecto para crear. ¡Una caja puede ser un castillo, un carro, un avión o lo que tú imagines! 📦🏰"
+      },
+      {
+        "id": "pre1-artes-b5-v1-003",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué ronda infantil mexicana dice 'A la rueda, rueda, de pan y canela'?",
+        "opciones": [
+          "A la rueda de San Miguel",
+          "Las mañanitas",
+          "Cielito lindo",
+          "La cucaracha"
+        ],
+        "respuestaCorrecta": "A la rueda de San Miguel",
+        "explicacion": "¡'A la rueda de San Miguel'! Es una ronda donde los niños hacen un círculo y cantan mientras giran. ¡Es muy divertida! 🎶🌀",
+        "visual": "🎵"
+      },
+      {
+        "id": "pre1-artes-b5-v1-004",
+        "tema": "Mi museo personal",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Tú puedes crear tu propio museo en tu casa con tus dibujos, esculturas de plastilina y collages.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Claro que sí! Juntas todas tus obras de arte, las pones bonitas en una mesa o pared, ¡y listo! ¡Tu museo personal! 🏛️✨"
+      },
+      {
+        "id": "pre1-artes-b5-v1-005",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando ves una obra de arte en tu libro, lo primero que debes hacer es...",
+        "opciones": [
+          "Observarla con calma y pensar lo que sientes",
+          "Romperla",
+          "Ignorarla",
+          "Correr"
+        ],
+        "respuestaCorrecta": "Observarla con calma y pensar lo que sientes",
+        "explicacion": "¡Observar es la clave! Mira los colores, las formas, los personajes. ¿Qué te hace sentir? ¡No hay respuesta incorrecta! 👁️💭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
+      },
+      {
+        "id": "pre1-artes-b5-v1-006",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estos materiales puedes reciclar para hacer arte?",
+        "opciones": [
+          "Todos: cartón, botellas, tapas, papel",
+          "Ninguno",
+          "Solo el oro",
+          "Solo el vidrio"
+        ],
+        "respuestaCorrecta": "Todos: cartón, botellas, tapas, papel",
+        "explicacion": "¡Todo se puede volver arte! Cartón, botellas de plástico, tapas, papel periódico... ¡La basura puede ser un tesoro artístico! ♻️🎨",
+        "visual": "♻️"
+      },
+      {
+        "id": "pre1-artes-b5-v1-007",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las canciones que los niños cantan en ronda mientras juegan son rondas infan___.",
+        "respuestaCorrecta": "tiles",
+        "explicacion": "¡Rondas infantiles! Son canciones que los niños cantan mientras juegan en círculo. ¡Han existido por generaciones! 🎶👫"
+      },
+      {
+        "id": "pre1-artes-b5-v1-008",
+        "tema": "Mi museo personal",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Un museo es un lugar donde se guardan y muestran...",
+        "opciones": [
+          "Obras de arte y objetos importantes",
+          "Solo comida",
+          "Solo ropa",
+          "Solo juguetes"
+        ],
+        "respuestaCorrecta": "Obras de arte y objetos importantes",
+        "explicacion": "¡Los museos guardan tesoros! Pinturas, esculturas, objetos antiguos... ¡Todo lo que vale la pena conservar y mostrar! 🏛️",
+        "visual": "🏛️"
+      },
+      {
+        "id": "pre1-artes-b5-v1-009",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un tubo de papel de baño puede convertirse en un cohete, un telescopio o un personaje.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Con un tubo de cartón, pintura y pegamento puedes crear un cohete, un telescopio, ¡o un títere! 🚀🔭",
+        "visual": "🚀"
+      },
+      {
+        "id": "pre1-artes-b5-v1-010",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Cantar y bailar también es hacer arte.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Claro! La música y la danza son formas de arte. Cuando cantas y bailas, ¡estás siendo un artista! 🎵💃"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-artes-b5-v2-001",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué formas de arte puedes encontrar en las láminas de tu libro?  ",
+        "opciones": [
+          "Pinturas, fotos, esculturas y artesanías",
+          "Solo pinturas",
+          "Nada",
+          "Solo fotos"
+        ],
+        "respuestaCorrecta": "Pinturas, fotos, esculturas y artesanías",
+        "explicacion": "¡Las láminas tienen de todo! Obras de artistas mexicanos, fotografías, esculturas... ¡Es como un mini museo en tu libro! 📖🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
+      },
+      {
+        "id": "pre1-artes-b5-v2-002",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando usamos materiales viejos para crear algo nuevo, estamos reci___.  ",
+        "respuestaCorrecta": "clando",
+        "explicacion": "¡Reciclando! Reutilizar materiales para hacer arte es bueno para el planeta y para la creatividad. ♻️🌍"
+      },
+      {
+        "id": "pre1-artes-b5-v2-003",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las rondas infantiles mexicanas se han pasado de abuelos a padres y de padres a hijos.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Son tradición oral — se transmiten de generación en generación. ¡Tu abuelita cantaba las mismas rondas! 👵🎶"
+      },
+      {
+        "id": "pre1-artes-b5-v2-004",
+        "tema": "Mi museo personal",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si quisieras hacer tu museo en casa, ¿qué obras pondrías?  ",
+        "opciones": [
+          "Mis dibujos, esculturas de plastilina y collages",
+          "Solo cuadernos de matemáticas",
+          "Solo ropa",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Mis dibujos, esculturas de plastilina y collages",
+        "explicacion": "¡Todo lo que has creado durante el año! Dibujos, pinturas, esculturas, collages... ¡Todo es digno de un museo! 🏛️🎨"
+      },
+      {
+        "id": "pre1-artes-b5-v2-005",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando observas una obra de arte, está bien que la interpretes a tu manera, no hay una sola respuesta correcta.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Cada persona ve algo diferente en el arte. Tu opinión es válida y especial. ¡El arte es para sentir! 💭❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LDG",
+          "pagina": 1
+        }
+      },
+      {
+        "id": "pre1-artes-b5-v2-006",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un 'eco-artista'?  ",
+        "opciones": [
+          "Alguien que crea arte con materiales reciclados",
+          "Un artista que vive en el bosque",
+          "Un cantante de eco",
+          "Un pintor de paredes"
+        ],
+        "respuestaCorrecta": "Alguien que crea arte con materiales reciclados",
+        "explicacion": "¡Un eco-artista cuida el planeta mientras crea! Convierte basura en belleza. ¡Tú puedes ser uno! ♻️🎨🌍"
+      },
+      {
+        "id": "pre1-artes-b5-v2-007",
+        "tema": "Canciones y rondas mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "'Naranja dulce, limón partido, dame un abrazo que yo te ___.'  ",
+        "respuestaCorrecta": "pido",
+        "explicacion": "¡'Dame un abrazo que yo te pido'! Es una ronda mexicana clásica. ¡Los abrazos hacen felices a todos! 🍊🤗"
+      },
+      {
+        "id": "pre1-artes-b5-v2-008",
+        "tema": "Mi museo personal",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Al final del año escolar, puedes hacer una exposición de arte con todo lo que creaste.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Es una idea genial! Invitas a tu familia a ver todas las obras que hiciste durante el año. ¡Una gran fiesta del arte! 🎉🎨"
+      },
+      {
+        "id": "pre1-artes-b5-v2-009",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué aprendimos sobre el arte este año?  ",
+        "opciones": [
+          "El arte es para todos y tiene muchas formas",
+          "Solo los adultos hacen arte",
+          "El arte es aburrido",
+          "Solo existe la pintura"
+        ],
+        "respuestaCorrecta": "El arte es para todos y tiene muchas formas",
+        "explicacion": "¡El arte es para TODOS! Pintura, escultura, música, danza, teatro, fotografía, artesanía... ¡Y TÚ eres un artista! 🌟🎨"
+      },
+      {
+        "id": "pre1-artes-b5-v2-010",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Hacer arte con materiales reciclados ayuda al medio ambiente.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Cada material que reciclas es uno menos en la basura. ¡El arte puede salvar el planeta! 🌍♻️🎨"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-artes-b5-v1-001",
+        "tema": "Láminas de arte y cultura",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven las láminas de arte de tu libro?",
+        "opciones": [
+          "Para observar, platicar y aprender sobre arte",
+          "Para recortar",
+          "Para tirar",
+          "Para hacer aviones"
+        ],
+        "respuestaCorrecta": "Para observar, platicar y aprender sobre arte",
+        "explicacion": "¡Para disfrutar el arte y compartir! 👁️🎨",
+        "visual": "🖼️",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b5-v1-006",
+        "tema": "Arte con materiales reciclados",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué materiales puedes reciclar para hacer arte?",
+        "opciones": [
+          "Cartón, botellas, tapas, papel",
+          "Ninguno",
+          "Solo el oro",
+          "Solo el vidrio"
+        ],
+        "respuestaCorrecta": "Cartón, botellas, tapas, papel",
+        "explicacion": "¡Todo puede ser arte! ♻️🎨",
+        "visual": "♻️"
+      },
+      {
+        "id": "pre1-artes-b5-v1-004",
+        "tema": "Mi museo personal",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Puedes crear tu propio museo en casa con tus dibujos y esculturas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Tu propio museo en casa! 🏛️✨"
+      }
+    ]
+  },
+  "generado": "2026-03-11T11:35:00.000Z",
+  "version": "4.0-SEP"
+}

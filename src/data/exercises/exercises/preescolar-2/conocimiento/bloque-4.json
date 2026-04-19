@@ -1,0 +1,244 @@
+{
+  "grado": "preescolar-2",
+  "materia": "conocimiento",
+  "bloque": 4,
+  "nombre": "Mi comunidad y vecinos",
+  "meses": "Febrero-Marzo",
+  "temas": [
+    "Los sentidos",
+    "El tiempo y clima",
+    "Plantas y animales",
+    "La comunidad",
+    "Cuidar el planeta"
+  ],
+  "totalEjercicios": 14,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "preescolar-2-conocimiento-b4-001",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-002",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-003",
+        "tema": "Los sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La mamá, el papá y los hijos forman una familia",
+        "respuestaCorrecta": "true",
+        "explicacion": "La familia es el grupo de personas con quienes vivimos y compartimos afecto y cuidado."
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-004",
+        "tema": "Los sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Con los ojos podemos ___ todo a nuestro alrededor",
+        "respuestaCorrecta": "ver",
+        "explicacion": "Los ojos son los órganos de la vista; nos permiten ver formas, colores y movimiento."
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-005",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas son partes del cuerpo?",
+        "respuestaCorrecta": "Brazo, pierna, cabeza",
+        "explicacion": "Las partes del cuerpo humano incluyen cabeza, tronco y extremidades (brazos y piernas).",
+        "opciones": [
+          "Mesa, silla, puerta",
+          "Brazo, pierna, cabeza",
+          "Libro, cuaderno, lápiz",
+          "Casa, árbol, nube"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-006",
+        "tema": "Los sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El perro y el gato son animales domésticos",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales domésticos son los que viven con las personas en sus casas."
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-007",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué le da energía a las plantas para crecer?",
+        "respuestaCorrecta": "El Sol",
+        "explicacion": "Las plantas necesitan luz solar para realizar la fotosíntesis y producir su alimento.",
+        "opciones": [
+          "La luna",
+          "La lluvia ácida",
+          "El Sol",
+          "El viento"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-008",
+        "tema": "Los sentidos",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El agua, el fuego, la tierra y el ___ son elementos de la naturaleza",
+        "respuestaCorrecta": "aire",
+        "explicacion": "El aire es uno de los elementos fundamentales de la naturaleza y lo respiramos para vivir."
+      }
+    ],
+    "v2": [
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-001",
+        "tema": "Cuidar el planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?  ",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "opciones": [
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-002",
+        "tema": "Cuidar el planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los miembros de una familia extendida?  ",
+        "respuestaCorrecta": "Abuelos, tíos, primos y más parientes",
+        "explicacion": "La familia extendida incluye a todos los parientes: abuelos, tíos, primos, etc.",
+        "opciones": [
+          "Solo papá y mamá",
+          "Papá, mamá e hijos",
+          "Abuelos, tíos, primos y más parientes",
+          "Solo los vecinos"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-003",
+        "tema": "Cuidar el planeta",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los animales salvajes también son importantes para la naturaleza aunque no vivamos con ellos  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los animales salvajes son parte del ecosistema y ayudan a mantener el equilibrio natural."
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-004",
+        "tema": "Cuidar el planeta",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las plantas producen el ___ que respiramos  ",
+        "respuestaCorrecta": "oxígeno",
+        "explicacion": "Durante la fotosíntesis, las plantas absorben CO₂ y liberan oxígeno, el gas que necesitamos para vivir."
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-005",
+        "tema": "Cuidar el planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué necesitamos para mantenernos saludables?  ",
+        "respuestaCorrecta": "Comer bien, hacer ejercicio y dormir suficiente",
+        "explicacion": "La salud integral requiere buena alimentación, actividad física y descanso adecuado.",
+        "opciones": [
+          "Solo dormir",
+          "Comer comida chatarra",
+          "Comer bien, hacer ejercicio y dormir suficiente",
+          "Solo tomar vitaminas"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-006",
+        "tema": "Cuidar el planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿De dónde viene el agua que tomamos?  ",
+        "respuestaCorrecta": "De ríos, lagos y pozos que se purifica",
+        "explicacion": "El agua que consumimos proviene de fuentes naturales (ríos, acuíferos) y pasa por procesos de purificación.",
+        "opciones": [
+          "Del cielo directamente",
+          "De ríos, lagos y pozos que se purifica",
+          "Solo del mar",
+          "De las nubes sin purificar"
+        ]
+      }
+    ],
+    "preview": [
+      {
+        "id": "preescolar-2-conocimiento-b4-001",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos sentidos tiene el cuerpo humano?",
+        "respuestaCorrecta": "5",
+        "explicacion": "Los 5 sentidos son: vista, oído, olfato, gusto y tacto.",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-v2-001",
+        "tema": "Cuidar el planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sentido usamos para saber si algo está caliente o frío?",
+        "respuestaCorrecta": "Tacto",
+        "explicacion": "A través de la piel y el sentido del tacto podemos detectar temperatura, textura y presión.",
+        "opciones": [
+          "Vista",
+          "Oído",
+          "Tacto",
+          "Gusto"
+        ]
+      },
+      {
+        "id": "preescolar-2-conocimiento-b4-002",
+        "tema": "Los sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido olemos las flores?",
+        "respuestaCorrecta": "Olfato",
+        "explicacion": "El olfato es el sentido que nos permite detectar los olores. Lo hacemos con la nariz.",
+        "opciones": [
+          "Vista",
+          "Gusto",
+          "Olfato",
+          "Tacto"
+        ]
+      }
+    ]
+  },
+  "generado": "2026-03-26T02:58:37.573Z",
+  "version": "2.0"
+}

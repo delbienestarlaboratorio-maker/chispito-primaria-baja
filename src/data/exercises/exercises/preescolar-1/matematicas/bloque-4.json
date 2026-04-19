@@ -1,0 +1,336 @@
+{
+  "grado": "preescolar-1",
+  "materia": "matematicas",
+  "bloque": 4,
+  "nombre": "Medida, clasificación y comparación",
+  "libroSep": "K1LMA",
+  "paginasLibro": "56-70",
+  "meses": "Febrero–Marzo",
+  "temas": [
+    "Grande, mediano y pequeño",
+    "Largo y corto",
+    "Pesado y ligero",
+    "Clasificar por color, forma y tamaño"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-mat-b4-v1-001",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el animal MÁS GRANDE: un ratón, un perro o un elefante?",
+        "opciones": [
+          "El elefante 🐘",
+          "El perro 🐕",
+          "El ratón 🐭",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "El elefante 🐘",
+        "explicacion": "¡El elefante es el más grande! Elefante > perro > ratón. ¡Comparar tamaños es matemáticas! 🐘📏",
+        "visual": "🐘",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 58
+        }
+      },
+      {
+        "id": "pre1-mat-b4-v1-002",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una hormiga es más pequeña que un gato.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La hormiga es chiquitita y el gato es mucho más grande. ¡Comparar nos ayuda a entender el mundo! 🐜🐱"
+      },
+      {
+        "id": "pre1-mat-b4-v1-003",
+        "tema": "Largo y corto",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es más LARGO: un lápiz o un autobús?",
+        "opciones": [
+          "El autobús 🚌",
+          "El lápiz ✏️",
+          "Son iguales",
+          "No se puede saber"
+        ],
+        "respuestaCorrecta": "El autobús 🚌",
+        "explicacion": "¡El autobús es mucho más largo que un lápiz! El autobús mide metros y el lápiz centímetros. 🚌📏",
+        "visual": "🚌"
+      },
+      {
+        "id": "pre1-mat-b4-v1-004",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué es más PESADO: una pluma o una piedra?",
+        "opciones": [
+          "La piedra 🪨",
+          "La pluma 🪶",
+          "Son iguales",
+          "Una nube"
+        ],
+        "respuestaCorrecta": "La piedra 🪨",
+        "explicacion": "¡La piedra pesa más! Si las pones en una balanza, la piedra baja. ¡Es más pesada! 🪨⚖️",
+        "visual": "⚖️"
+      },
+      {
+        "id": "pre1-mat-b4-v1-005",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si tienes bloques rojos 🟥 y bloques azules 🟦, ¿cómo los separas?",
+        "opciones": [
+          "Por color: rojos juntos y azules juntos",
+          "Los tiras",
+          "Los mezclas más",
+          "No se pueden separar"
+        ],
+        "respuestaCorrecta": "Por color: rojos juntos y azules juntos",
+        "explicacion": "¡Clasificar por color! Pones todos los rojos en un grupo y todos los azules en otro. ¡Es organizar! 🟥🟦",
+        "visual": "🟥🟦",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 62
+        }
+      },
+      {
+        "id": "pre1-mat-b4-v1-006",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El oso papá es grande, el oso mamá es mediano, y el osito bebé es peque___.",
+        "respuestaCorrecta": "ño",
+        "explicacion": "¡Pequeño! Como el cuento de los tres osos: grande, mediano y pequeño. 🐻🐻🧸"
+      },
+      {
+        "id": "pre1-mat-b4-v1-007",
+        "tema": "Largo y corto",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una serpiente es más larga que un gusanito.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las serpientes pueden medir metros, los gusanitos solo centímetros. ¡La serpiente gana en longitud! 🐍📏"
+      },
+      {
+        "id": "pre1-mat-b4-v1-008",
+        "tema": "Pesado y ligero",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un globo lleno de aire flota porque es muy ligero.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los globos son ligeros! El aire caliente los hace flotar. ¡Ligero sube, pesado baja! 🎈⬆️",
+        "visual": "🎈"
+      },
+      {
+        "id": "pre1-mat-b4-v1-009",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De cuántas formas puedes separar estos objetos: 🟥🔵🟢 🟩🔴🟦?",
+        "opciones": [
+          "Los separo por color",
+          "No se pueden separar",
+          "Los tiro",
+          "Los como"
+        ],
+        "respuestaCorrecta": "Los separo por color",
+        "explicacion": "¡Por color! Rojos juntos, azules juntos, verdes juntos. ¡Clasificar es súper importante en matemáticas! 🎨📊"
+      },
+      {
+        "id": "pre1-mat-b4-v1-010",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Ordena de mayor a menor: un oso 🐻, un gatito 🐱 y un caballo 🐴.",
+        "opciones": [
+          "Caballo, oso, gatito",
+          "Gatito, oso, caballo",
+          "Oso, caballo, gatito",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "Caballo, oso, gatito",
+        "explicacion": "¡El caballo es el más grande, luego el oso y al final el gatito! Ordenar por tamaño es comparar. 🐴🐻🐱"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-mat-b4-v2-001",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Con qué instrumento medimos la altura de una persona?  ",
+        "opciones": [
+          "Con una cinta métrica o metro",
+          "Con una cuchara",
+          "Con un vaso",
+          "Con un crayón"
+        ],
+        "respuestaCorrecta": "Con una cinta métrica o metro",
+        "explicacion": "¡Con una cinta métrica! Nos dice cuántos centímetros o metros mides. ¡El metro mide la longitud! 📏"
+      },
+      {
+        "id": "pre1-mat-b4-v2-002",
+        "tema": "Largo y corto",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para medir cosas cortas usamos centí___.  ",
+        "respuestaCorrecta": "metros",
+        "explicacion": "¡Centímetros! Para cosas pequeñas usamos centímetros (cm). Para cosas grandes usamos metros (m). 📏"
+      },
+      {
+        "id": "pre1-mat-b4-v2-003",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Con qué se pesa la fruta en el mercado?  ",
+        "opciones": [
+          "Con una báscula o balanza",
+          "Con una regla",
+          "Con un termómetro",
+          "Con un reloj"
+        ],
+        "respuestaCorrecta": "Con una báscula o balanza",
+        "explicacion": "¡Con una báscula! Nos dice cuántos kilos o gramos pesa algo. ¡Cada instrumento mide algo diferente! ⚖️🍎",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 65
+        }
+      },
+      {
+        "id": "pre1-mat-b4-v2-004",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Puedo clasificar frutas por color: rojas (manzana, fresa) y amarillas (plátano, piña).  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las frutas se pueden clasificar por color, tamaño, sabor... ¡Hay muchas formas de organizar! 🍎🍓🍌🍍"
+      },
+      {
+        "id": "pre1-mat-b4-v2-005",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es más alto: una casa o una jirafa?  ",
+        "opciones": [
+          "Depende — pero una jirafa puede ser más alta que una casa de 1 piso",
+          "La casa siempre",
+          "La jirafa siempre",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "Depende — pero una jirafa puede ser más alta que una casa de 1 piso",
+        "explicacion": "¡Una jirafa puede medir hasta 5.5 metros! Una casa de 1 piso mide unos 3 metros. ¡La jirafa gana! 🦒🏠"
+      },
+      {
+        "id": "pre1-mat-b4-v2-006",
+        "tema": "Pesado y ligero",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los kilos (kg) miden el ___ de las cosas.  ",
+        "respuestaCorrecta": "peso",
+        "explicacion": "¡El peso! Los kilogramos (kg) nos dicen qué tan pesado es algo. Tú pesas varios kilos. ⚖️"
+      },
+      {
+        "id": "pre1-mat-b4-v2-007",
+        "tema": "Largo y corto",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Un río es más largo que una alberca.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los ríos pueden medir kilómetros y kilómetros. ¡Una alberca solo mide unos metros! 🏊🌊"
+      },
+      {
+        "id": "pre1-mat-b4-v2-008",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si clasificas animales por número de patas: ¿en qué grupo va una araña?  ",
+        "opciones": [
+          "Grupo de 8 patas",
+          "Grupo de 4 patas",
+          "Grupo de 6 patas",
+          "Grupo de 2 patas"
+        ],
+        "respuestaCorrecta": "Grupo de 8 patas",
+        "explicacion": "¡8 patas! Las arañas tienen 8 patas (arácnidos). Los insectos tienen 6 y los mamíferos 4. ¡Clasificar ayuda a entender! 🕷️8️⃣"
+      },
+      {
+        "id": "pre1-mat-b4-v2-009",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una ballena azul es el animal más grande del mundo.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La ballena azul puede medir 30 metros — ¡más grande que un autobús! Es el animal más grande que ha existido. 🐋🏆"
+      },
+      {
+        "id": "pre1-mat-b4-v2-010",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Organizar objetos en grupos según una característica se llama clasifi___.  ",
+        "respuestaCorrecta": "car",
+        "explicacion": "¡Clasificar! Es separar en grupos según algo que comparten: color, tamaño, forma, tipo... ¡Es pensar ordenado! 📊"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-mat-b4-v1-001",
+        "tema": "Grande, mediano y pequeño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál es el más grande?",
+        "opciones": [
+          "Elefante 🐘",
+          "Perro 🐕",
+          "Ratón 🐭",
+          "Son iguales"
+        ],
+        "respuestaCorrecta": "Elefante 🐘",
+        "explicacion": "¡El elefante! 🐘📏",
+        "visual": "🐘",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-mat-b4-v1-004",
+        "tema": "Pesado y ligero",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué pesa más?",
+        "opciones": [
+          "Una piedra 🪨",
+          "Una pluma 🪶",
+          "Son iguales",
+          "Una nube"
+        ],
+        "respuestaCorrecta": "Una piedra 🪨",
+        "explicacion": "¡La piedra! 🪨⚖️",
+        "visual": "⚖️"
+      },
+      {
+        "id": "pre1-mat-b4-v1-005",
+        "tema": "Clasificar por color, forma y tamaño",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo separas bloques 🟥🟦?",
+        "opciones": [
+          "Por color",
+          "Los tiras",
+          "Los mezclas",
+          "No se puede"
+        ],
+        "respuestaCorrecta": "Por color",
+        "explicacion": "¡Por color! 🟥🟦",
+        "visual": "🟥🟦",
+        "fuenteSEP": true
+      }
+    ]
+  },
+  "generado": "2026-03-11T12:55:00.000Z",
+  "version": "4.0-SEP"
+}

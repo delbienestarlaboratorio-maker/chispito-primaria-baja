@@ -1,0 +1,313 @@
+{
+  "grado": "preescolar-1",
+  "materia": "conocimiento",
+  "bloque": 4,
+  "nombre": "Mi cuerpo y cómo cuidarlo",
+  "libroSep": "K1LPA",
+  "paginasLibro": "81-110",
+  "meses": "Febrero–Marzo",
+  "temas": [
+    "Las partes de mi cuerpo",
+    "Los 5 sentidos",
+    "Alimentación saludable",
+    "Higiene y salud"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-conoc-b4-v1-001",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué parte del cuerpo vemos?",
+        "opciones": [
+          "Con los ojos 👀",
+          "Con las orejas 👂",
+          "Con la nariz 👃",
+          "Con la boca 👄"
+        ],
+        "respuestaCorrecta": "Con los ojos 👀",
+        "explicacion": "¡Con los ojos! Los ojos nos permiten ver los colores, las formas y todo lo hermoso del mundo. 👀🌈",
+        "visual": "👀"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-002",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las manos nos sirven para tocar, agarrar y escribir.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Nuestras manos son increíbles! Podemos tocar, agarrar, dibujar, escribir, aplaudir y dar abrazos. ✋🤗"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-003",
+        "tema": "Los 5 sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los 5 sentidos del cuerpo?",
+        "opciones": [
+          "Vista, oído, olfato, gusto y tacto",
+          "Solo 2: ver y oír",
+          "Solo 1: tocar",
+          "No tenemos sentidos"
+        ],
+        "respuestaCorrecta": "Vista, oído, olfato, gusto y tacto",
+        "explicacion": "¡Tenemos 5 sentidos! Con los ojos vemos, con los oídos escuchamos, con la nariz olemos, con la lengua probamos y con la piel tocamos. 👁️👂👃👅✋",
+        "visual": "👁️"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-004",
+        "tema": "Los 5 sentidos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Con la nariz podemos oler las flores y la comida.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡La nariz es para oler! Puedes oler flores bonitas, comida rica y también olores feos que te avisan de peligro. 👃🌺"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-005",
+        "tema": "Alimentación saludable",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué alimentos son más saludables para tu cuerpo?",
+        "opciones": [
+          "Frutas y verduras 🥦🍎",
+          "Solo dulces 🍬",
+          "Solo refrescos 🥤",
+          "Solo papitas 🍟"
+        ],
+        "respuestaCorrecta": "Frutas y verduras 🥦🍎",
+        "explicacion": "¡Las frutas y verduras son lo mejor! Tienen vitaminas que te hacen fuerte y sano. ¡Come muchos colores! 🥦🍎🥕🍌",
+        "visual": "🥦"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-006",
+        "tema": "Alimentación saludable",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Tomar agua es mejor para tu cuerpo que tomar refresco.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡El agua es la mejor bebida! Tu cuerpo necesita agua para funcionar bien. Los refrescos tienen mucha azúcar. 💧"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-007",
+        "tema": "Higiene y salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo debes lavarte las manos?",
+        "opciones": [
+          "Antes de comer y después de ir al baño",
+          "Nunca",
+          "Solo los domingos",
+          "Solo cuando llueve"
+        ],
+        "respuestaCorrecta": "Antes de comer y después de ir al baño",
+        "explicacion": "¡Siempre antes de comer y después del baño! Lavarse las manos quita los gérmenes que nos enferman. 🧼🤲",
+        "visual": "🧼"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-008",
+        "tema": "Higiene y salud",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Lavarse los dientes es importante para tener una boca sana.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Hay que lavarse los dientes después de cada comida para que no aparezcan caries. ¡Dientes limpios, sonrisa brillante! 🦷✨"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-009",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La parte del cuerpo que está dentro de nuestra cabeza y nos ayuda a pensar es el cere___.",
+        "respuestaCorrecta": "bro",
+        "explicacion": "¡El cerebro! Es como una supercomputadora que nos permite pensar, recordar, soñar y aprender. 🧠✨"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-010",
+        "tema": "Los 5 sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué sentido escuchas la música?",
+        "opciones": [
+          "Con el oído 👂",
+          "Con el gusto 👅",
+          "Con el tacto ✋",
+          "Con el olfato 👃"
+        ],
+        "respuestaCorrecta": "Con el oído 👂",
+        "explicacion": "¡Con el oído! Los oídos nos permiten escuchar la música, las voces y todos los sonidos del mundo. 👂🎵",
+        "visual": "👂"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-conoc-b4-v2-001",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué órgano bombea la sangre por todo tu cuerpo?  ",
+        "opciones": [
+          "El corazón ❤️",
+          "El estómago",
+          "Los pulmones",
+          "Los ojos"
+        ],
+        "respuestaCorrecta": "El corazón ❤️",
+        "explicacion": "¡El corazón! Late todo el día, 'bum bum', enviando sangre a todo tu cuerpo. ¡Es tu motor interno! ❤️"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-002",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Los huesos que están dentro de nuestro cuerpo forman el esque___.  ",
+        "respuestaCorrecta": "leto",
+        "explicacion": "¡El esqueleto! Es la estructura que sostiene tu cuerpo, como los postes sostienen una casa. 💀🦴"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-003",
+        "tema": "Los 5 sentidos",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las personas que no pueden ver usan el sentido del tacto para leer un sistema de puntitos llamado Braille.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El Braille son puntitos que se tocan con los dedos para leer. ¡Los otros sentidos se vuelven más fuertes! ✋📖"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-004",
+        "tema": "Alimentación saludable",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "El plato del bien comer recomienda comer de 3 grupos. ¿Cuáles son?  ",
+        "opciones": [
+          "Frutas/verduras, cereales y leguminosas/alimentos de origen animal",
+          "Solo carne",
+          "Solo pan",
+          "Solo dulces"
+        ],
+        "respuestaCorrecta": "Frutas/verduras, cereales y leguminosas/alimentos de origen animal",
+        "explicacion": "¡Los 3 grupos! Frutas y verduras, cereales (tortilla, arroz), y proteínas (frijoles, carne, huevo). ¡Equilibrio perfecto! 🥗"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-005",
+        "tema": "Alimentación saludable",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las vitaminas que tienen las frutas y verduras nos ayudan a no enfer___.  ",
+        "respuestaCorrecta": "marnos",
+        "explicacion": "¡Las vitaminas nos protegen! La vitamina C de las naranjas y la vitamina A de las zanahorias nos mantienen sanos. 🍊🥕"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-006",
+        "tema": "Higiene y salud",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuánto tiempo debes lavarte las manos para que queden realmente limpias?  ",
+        "opciones": [
+          "20 segundos con agua y jabón",
+          "1 segundo",
+          "0 segundos",
+          "Solo con agua"
+        ],
+        "respuestaCorrecta": "20 segundos con agua y jabón",
+        "explicacion": "¡20 segundos! Puedes cantar 'Las mañanitas' mientras te lavas. ¡Así eliminas los gérmenes! 🧼🎵"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-007",
+        "tema": "Higiene y salud",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Dormir bien por la noche ayuda a que tu cuerpo crezca y tu cerebro descanse.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Mientras duermes, tu cuerpo se repara y crece. ¡Los niños necesitan dormir bien para estar fuertes y listos! 😴💪"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-008",
+        "tema": "Las partes de mi cuerpo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los músculos nos permiten movernos: caminar, correr, saltar y brincar.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Los músculos son tu motor de movimiento! Se contraen y estiran para que puedas hacer todo tipo de movimientos. 💪🏃"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-009",
+        "tema": "Los 5 sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál sentido te ayuda a saber si algo está frío o caliente antes de tocarlo con las manos?  ",
+        "opciones": [
+          "El tacto — la piel siente la temperatura",
+          "La vista",
+          "El oído",
+          "El gusto"
+        ],
+        "respuestaCorrecta": "El tacto — la piel siente la temperatura",
+        "explicacion": "¡El tacto! Tu piel tiene sensores que detectan frío, calor, suavidad y dolor. ¡Te protegen de quemarte! ✋🔥❄️"
+      },
+      {
+        "id": "pre1-conoc-b4-v2-010",
+        "tema": "Alimentación saludable",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Comer muchos dulces puede causar caries en los dientes y hacernos subir de peso.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los dulces en exceso dañan los dientes y pueden causar problemas de salud. ¡Mejor fruta como postre! 🍬❌🍎✅"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-conoc-b4-v1-003",
+        "tema": "Los 5 sentidos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los 5 sentidos?",
+        "opciones": [
+          "Vista, oído, olfato, gusto y tacto",
+          "Solo 2",
+          "Solo 1",
+          "Ninguno"
+        ],
+        "respuestaCorrecta": "Vista, oído, olfato, gusto y tacto",
+        "explicacion": "¡5 sentidos increíbles! 👁️👂👃👅✋",
+        "visual": "👁️"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-005",
+        "tema": "Alimentación saludable",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué alimentos son más saludables?",
+        "opciones": [
+          "Frutas y verduras 🥦🍎",
+          "Solo dulces 🍬",
+          "Solo refrescos 🥤",
+          "Solo papitas 🍟"
+        ],
+        "respuestaCorrecta": "Frutas y verduras 🥦🍎",
+        "explicacion": "¡Frutas y verduras! 🥦🍎🥕🍌",
+        "visual": "🥦"
+      },
+      {
+        "id": "pre1-conoc-b4-v1-007",
+        "tema": "Higiene y salud",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuándo debes lavarte las manos?",
+        "opciones": [
+          "Antes de comer y después del baño",
+          "Nunca",
+          "Solo domingos",
+          "Solo lloviendo"
+        ],
+        "respuestaCorrecta": "Antes de comer y después del baño",
+        "explicacion": "¡Siempre! 🧼🤲",
+        "visual": "🧼"
+      }
+    ]
+  },
+  "generado": "2026-03-11T11:55:00.000Z",
+  "version": "4.0-SEP"
+}

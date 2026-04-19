@@ -1,0 +1,395 @@
+{
+  "grado": "preescolar-1",
+  "materia": "artes",
+  "bloque": 2,
+  "nombre": "Música, cuentos y colores del libro",
+  "libroSep": "K1MLA",
+  "paginasLibro": "63-94",
+  "meses": "Octubre–Noviembre",
+  "temas": [
+    "El viaje musical de Estrella la Mariposa",
+    "Colores y formas en el arte",
+    "Danza y tradiciones mexicanas",
+    "Pintura y murales de México"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-artes-b2-v1-001",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro hay un cuento sobre Estrella la Mariposa. ¿Qué don especial tenía?",
+        "opciones": [
+          "Llevar la música en sus alas",
+          "Ser invisible",
+          "Hablar con los peces",
+          "Volar al espacio"
+        ],
+        "respuestaCorrecta": "Llevar la música en sus alas",
+        "explicacion": "¡Estrella la Mariposa llevaba la música en sus alas! Cuando volaba, compartía melodías con todo el bosque. 🦋🎵",
+        "visual": "🦋",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-002",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Estrella la Mariposa vivía en un bosque encantado.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Estrella vivía en un bosque encantado donde decidió compartir la alegría de la música con todos. 🌳🎶",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-003",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién escribió la historia de Estrella la Mariposa en tu libro?",
+        "opciones": [
+          "Rodrigo Díaz Bueno",
+          "Mario Núñez",
+          "Un robot",
+          "Tu mamá"
+        ],
+        "respuestaCorrecta": "Rodrigo Díaz Bueno",
+        "explicacion": "¡Rodrigo Díaz Bueno es el escritor! Los escritores crean historias con palabras para que las disfrutemos. 📝✨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-004",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son los 3 colores primarios que usamos para pintar?",
+        "opciones": [
+          "Rojo, azul y amarillo",
+          "Negro, blanco y gris",
+          "Morado, naranja y verde",
+          "Rosa, café y dorado"
+        ],
+        "respuestaCorrecta": "Rojo, azul y amarillo",
+        "explicacion": "¡Rojo, azul y amarillo! Con estos 3 colores puedes mezclar y hacer TODOS los demás colores. ¡Son mágicos! 🔴🔵🟡",
+        "visual": "🎨"
+      },
+      {
+        "id": "pre1-artes-b2-v1-005",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En México hay danzas tradicionales donde las personas usan máscaras y trajes de colores.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En las fiestas mexicanas se baila con máscaras de diablos, animales y personajes. ¡Es una tradición hermosa! 💃🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-006",
+        "tema": "Pintura y murales de México",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro hay una pintura con personas bailando con máscaras. ¿Qué tipo de arte es?",
+        "opciones": [
+          "Un mural",
+          "Una fotografía",
+          "Un video",
+          "Un juguete"
+        ],
+        "respuestaCorrecta": "Un mural",
+        "explicacion": "¡Es un mural! Los murales son pinturas muy grandes que se hacen en las paredes. México es famoso por sus murales. 🖼️",
+        "visual": "🖼️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-007",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Estrella la Mariposa decidió compartir la alegría de la ___ con todos.",
+        "respuestaCorrecta": "música",
+        "explicacion": "¡La música! Estrella quería que todos en el bosque disfrutaran de la música. ¡La música nos hace felices! 🎵",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-008",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si mezclas el color rojo con amarillo, ¿qué color obtienes?",
+        "opciones": [
+          "Naranja",
+          "Morado",
+          "Verde",
+          "Negro"
+        ],
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "¡Naranja! Rojo + amarillo = naranja. ¡Así funciona la magia de los colores! 🟠",
+        "visual": "🟠"
+      },
+      {
+        "id": "pre1-artes-b2-v1-009",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Para qué sirven las máscaras en las danzas tradicionales?",
+        "opciones": [
+          "Para representar personajes en la danza",
+          "Para no verse",
+          "Para dormir",
+          "Para comer"
+        ],
+        "respuestaCorrecta": "Para representar personajes en la danza",
+        "explicacion": "¡Las máscaras representan diablos, animales o personajes de la danza! Cada máscara cuenta una historia diferente. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v1-010",
+        "tema": "Pintura y murales de México",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Un mural es una pintura que se hace en un papel muy pequeñito.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Un mural es una pintura ENORME que se hace en paredes grandes. ¡A veces son tan grandes como una casa! 🏛️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-artes-b2-v2-001",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué hace especial a Estrella la Mariposa comparada con otras mariposas?  ",
+        "opciones": [
+          "Lleva la música en sus alas, no solo vuela",
+          "Es más grande",
+          "Come mucho",
+          "No puede volar"
+        ],
+        "respuestaCorrecta": "Lleva la música en sus alas, no solo vuela",
+        "explicacion": "Estrella no solo vuela como las demás mariposas: ¡sus alas producen música! Y decidió compartir ese regalo. 🦋🎵",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-002",
+        "tema": "Colores y formas en el arte",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Si mezclo azul con amarillo obtengo el color ___.  ",
+        "respuestaCorrecta": "verde",
+        "explicacion": "¡Verde! Azul + amarillo = verde. ¡Como las hojas de los árboles y el pasto! 🟢🌿"
+      },
+      {
+        "id": "pre1-artes-b2-v2-003",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la pintura del libro se ven personas con trajes blancos y máscaras. ¿Qué están haciendo?  ",
+        "opciones": [
+          "Una danza tradicional",
+          "Jugando fútbol",
+          "Cocinando",
+          "Durmiendo"
+        ],
+        "respuestaCorrecta": "Una danza tradicional",
+        "explicacion": "¡Es una danza tradicional mexicana! Las personas usan trajes especiales y máscaras para representar personajes de la comunidad. 💃",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-004",
+        "tema": "Pintura y murales de México",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los murales mexicanos cuentan historias sobre la cultura y tradiciones de México.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los muralistas como Diego Rivera pintaron la historia de México en paredes enormes para que todos la vieran. 🇲🇽🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-005",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La ilustradora del cuento de Estrella es Nathalia Colmar, de la Ciudad de México.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Nathalia Colmar dibujó la hermosa mariposa con sus alas amarillas y anaranjadas. ¡Los ilustradores dan vida a los cuentos! 🎨",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-006",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son los colores cálidos?  ",
+        "opciones": [
+          "Rojo, naranja y amarillo",
+          "Azul, morado y verde",
+          "Blanco y negro",
+          "Gris y café"
+        ],
+        "respuestaCorrecta": "Rojo, naranja y amarillo",
+        "explicacion": "Los colores cálidos son el rojo, naranja y amarillo. ¡Nos recuerdan al sol, al fuego y a las cosas calentitas! ☀️🔥",
+        "visual": "☀️"
+      },
+      {
+        "id": "pre1-artes-b2-v2-007",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En las fiestas mexicanas, las personas bailan con trajes especiales y más___.  ",
+        "respuestaCorrecta": "caras",
+        "explicacion": "¡Máscaras! Las máscaras son parte importante de las danzas mexicanas. Cada máscara tiene un significado especial. 🎭",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-008",
+        "tema": "Pintura y murales de México",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Dónde se pintan los murales?  ",
+        "opciones": [
+          "En paredes grandes de edificios",
+          "En cuadernos",
+          "En el agua",
+          "En las nubes"
+        ],
+        "respuestaCorrecta": "En paredes grandes de edificios",
+        "explicacion": "¡Los murales se pintan en paredes grandes! En escuelas, museos y edificios públicos. ¡Son arte para todos! 🏛️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 94
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-009",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué quería lograr Estrella con su viaje mágico?  ",
+        "opciones": [
+          "Compartir la alegría de la música con todos",
+          "Ganar una carrera",
+          "Encontrar comida",
+          "Esconderse"
+        ],
+        "respuestaCorrecta": "Compartir la alegría de la música con todos",
+        "explicacion": "¡Estrella quería compartir! La música es un regalo que todos merecemos disfrutar. ¡Compartir nos hace felices! 🎶❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 72
+        }
+      },
+      {
+        "id": "pre1-artes-b2-v2-010",
+        "tema": "Colores y formas en el arte",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Si mezclas rojo con azul, obtienes el color morado.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Rojo + azul = morado (o púrpura). ¡Es la mezcla perfecta para hacer coronas y flores! 💜👑"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-artes-b2-v1-001",
+        "tema": "El viaje musical de Estrella la Mariposa",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué don especial tenía Estrella la Mariposa?",
+        "opciones": [
+          "Llevar la música en sus alas",
+          "Ser invisible",
+          "Hablar con los peces",
+          "Volar al espacio"
+        ],
+        "respuestaCorrecta": "Llevar la música en sus alas",
+        "explicacion": "¡Estrella llevaba la música en sus alas! 🦋🎵",
+        "visual": "🦋",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b2-v1-005",
+        "tema": "Danza y tradiciones mexicanas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En México hay danzas donde usan máscaras y trajes de colores.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las danzas mexicanas usan máscaras y trajes hermosos. 💃🎭",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b2-v1-008",
+        "tema": "Colores y formas en el arte",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si mezclas rojo con amarillo, ¿qué color obtienes?",
+        "opciones": [
+          "Naranja",
+          "Morado",
+          "Verde",
+          "Negro"
+        ],
+        "respuestaCorrecta": "Naranja",
+        "explicacion": "¡Naranja! Rojo + amarillo = naranja. 🟠",
+        "visual": "🟠"
+      }
+    ]
+  },
+  "generado": "2026-03-11T11:20:00.000Z",
+  "version": "4.0-SEP"
+}

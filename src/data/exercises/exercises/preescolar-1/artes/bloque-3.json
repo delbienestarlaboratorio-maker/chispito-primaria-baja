@@ -1,0 +1,363 @@
+{
+  "grado": "preescolar-1",
+  "materia": "artes",
+  "bloque": 3,
+  "nombre": "Esculturas, animales y arte prehispánico",
+  "libroSep": "K1MLA",
+  "paginasLibro": "95-132",
+  "meses": "Diciembre–Enero",
+  "temas": [
+    "Animales en el arte prehispánico",
+    "Esculturas de barro y piedra",
+    "Fotografía artística",
+    "Crear con las manos"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-artes-b3-v1-001",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro hay esculturas de animales hechas hace mucho tiempo. ¿De qué material están hechas?",
+        "opciones": [
+          "De barro y piedra",
+          "De plástico",
+          "De papel",
+          "De tela"
+        ],
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "¡Los artistas de antes hacían esculturas de barro y piedra! Eran tan fuertes que todavía las podemos ver hoy. 🏺",
+        "visual": "🏺",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v1-002",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En tu libro aparecen esculturas de perros hechas por personas que vivieron en México hace mucho tiempo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los antiguos mexicanos hacían esculturas de perros como el xoloitzcuintle. ¡Los perros eran muy importantes para ellos! 🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v1-003",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Además de perros, ¿qué otro animal aparece en las esculturas del libro?",
+        "opciones": [
+          "Un jaguar",
+          "Un dinosaurio",
+          "Un unicornio",
+          "Un elefante"
+        ],
+        "respuestaCorrecta": "Un jaguar",
+        "explicacion": "¡El jaguar! Era el animal más poderoso para los pueblos de México. Lo esculpían en piedra para honrarlo. 🐆",
+        "visual": "🐆",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v1-004",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una escultura es una obra de arte que podemos tocar porque tiene forma en 3 dimensiones.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! A diferencia de una pintura (que es plana), una escultura tiene alto, ancho y profundidad. ¡Puedes verla desde todos los lados! 🗿"
+      },
+      {
+        "id": "pre1-artes-b3-v1-005",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué puedes hacer una escultura en tu casa?",
+        "opciones": [
+          "Con plastilina",
+          "Con agua",
+          "Con aire",
+          "Con una canción"
+        ],
+        "respuestaCorrecta": "Con plastilina",
+        "explicacion": "¡La plastilina es perfecta para hacer esculturas! Puedes moldearla con tus manos y crear cualquier figura. 🟡🟢",
+        "visual": "🎨"
+      },
+      {
+        "id": "pre1-artes-b3-v1-006",
+        "tema": "Fotografía artística",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro aparecen fotos en blanco y negro. ¿Quién las tomó?",
+        "opciones": [
+          "Manuel Álvarez Bravo",
+          "Mario Núñez",
+          "Un niño",
+          "Un robot"
+        ],
+        "respuestaCorrecta": "Manuel Álvarez Bravo",
+        "explicacion": "¡Manuel Álvarez Bravo es un famoso fotógrafo mexicano! Sus fotos en blanco y negro son obras de arte. 📷",
+        "visual": "📷",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v1-007",
+        "tema": "Fotografía artística",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La fotografía también es una forma de hacer arte.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La fotografía es arte. Un fotógrafo elige qué capturar, la luz, los colores... ¡cada foto cuenta una historia! 📸",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v1-008",
+        "tema": "Crear con las manos",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué puedes crear con papel, tijeras y pegamento?",
+        "opciones": [
+          "Un collage",
+          "Una canción",
+          "Un baile",
+          "Un sabor"
+        ],
+        "respuestaCorrecta": "Un collage",
+        "explicacion": "¡Un collage! Es una obra de arte donde pegas diferentes papeles, telas y materiales para crear una imagen. ✂️📄",
+        "visual": "✂️"
+      },
+      {
+        "id": "pre1-artes-b3-v1-009",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las esculturas de animales del libro están hechas de ba___ y piedra.",
+        "respuestaCorrecta": "rro",
+        "explicacion": "¡Barro! El barro es arcilla que se moldea con las manos y después se endurece con el calor del fuego. 🏺🔥",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v1-010",
+        "tema": "Crear con las manos",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Con nuestras manos podemos crear arte: dibujar, pintar, moldear y pegar.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Nuestras manos son las herramientas más poderosas del arte! Con ellas podemos crear todo lo que imaginemos. ✋🎨"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-artes-b3-v2-001",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué los antiguos mexicanos hacían esculturas de animales como jaguares y perros?  ",
+        "opciones": [
+          "Porque eran sagrados y los admiraban",
+          "Para venderlos en tiendas",
+          "Para jugar fútbol",
+          "Por aburrimiento"
+        ],
+        "respuestaCorrecta": "Porque eran sagrados y los admiraban",
+        "explicacion": "Los animales eran sagrados para los pueblos antiguos. El jaguar representaba fuerza y el perro era compañero en la vida y la muerte. 🐆🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v2-002",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "El perro sin pelo que los mexicanos amaban se llama xoloitzcuin___.  ",
+        "respuestaCorrecta": "tle",
+        "explicacion": "¡Xoloitzcuintle! Es un perro sin pelo que ha existido en México desde tiempos prehispánicos. ¡Todavía existe hoy! 🐕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v2-003",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "La diferencia entre una escultura y una pintura es que la escultura ocupa espacio en 3 dimensiones.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Una pintura es plana (2D: arriba-abajo, izquierda-derecha). Una escultura tiene volumen (3D: ¡puedes rodearla!). 🗿"
+      },
+      {
+        "id": "pre1-artes-b3-v2-004",
+        "tema": "Fotografía artística",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Manuel Álvarez Bravo es famoso por sus fotografías. ¿De qué país es?  ",
+        "opciones": [
+          "México",
+          "Francia",
+          "Japón",
+          "Brasil"
+        ],
+        "respuestaCorrecta": "México",
+        "explicacion": "¡Manuel Álvarez Bravo es mexicano! Es uno de los fotógrafos más importantes de la historia de México. 🇲🇽📷",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v2-005",
+        "tema": "Fotografía artística",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las fotos del libro de Manuel Álvarez Bravo son en blanco y ___.  ",
+        "respuestaCorrecta": "negro",
+        "explicacion": "¡Blanco y negro! Antes no había fotos a colores. Las fotos en blanco y negro tienen un encanto especial y artístico. 🖤🤍",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 132
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v2-006",
+        "tema": "Crear con las manos",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas formas de arte hay?  ",
+        "opciones": [
+          "Muchas: pintura, escultura, música, danza, fotografía, teatro...",
+          "Solo una",
+          "Dos: dibujar y cantar",
+          "Ninguna"
+        ],
+        "respuestaCorrecta": "Muchas: pintura, escultura, música, danza, fotografía, teatro...",
+        "explicacion": "¡El arte tiene muchas formas! Pintura, escultura, música, danza, fotografía, teatro, cine... ¡El arte está en todas partes! 🎨🎵🎭📷"
+      },
+      {
+        "id": "pre1-artes-b3-v2-007",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En la página 121 de tu libro hay una escultura de piedra gris con forma de perro o coyote.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Es una escultura de piedra gris con forma geométrica — las líneas rectas le dan un aspecto moderno aunque tiene miles de años. 🐺",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1MLA",
+          "pagina": 121
+        }
+      },
+      {
+        "id": "pre1-artes-b3-v2-008",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué pasa cuando el barro se mete al fuego o al horno?  ",
+        "opciones": [
+          "Se endurece y se convierte en cerámica",
+          "Se derrite",
+          "Desaparece",
+          "Se convierte en agua"
+        ],
+        "respuestaCorrecta": "Se endurece y se convierte en cerámica",
+        "explicacion": "¡El calor endurece el barro! Así es como los artistas hacían vasijas, platos y esculturas que duran miles de años. 🔥🏺"
+      },
+      {
+        "id": "pre1-artes-b3-v2-009",
+        "tema": "Fotografía artística",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Una fotografía artística solo muestra cosas bonitas y nunca cosas cotidianas.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! La fotografía artística puede mostrar cosas cotidianas — una silla, una ventana, una calle. ¡El arte está en cómo se mira! 👁️📷"
+      },
+      {
+        "id": "pre1-artes-b3-v2-010",
+        "tema": "Crear con las manos",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para hacer un collage necesitas papel, tijeras y pega___.  ",
+        "respuestaCorrecta": "mento",
+        "explicacion": "¡Pegamento! Con papel, tijeras y pegamento puedes crear collages increíbles mezclando diferentes materiales. ✂️💎"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-artes-b3-v1-001",
+        "tema": "Animales en el arte prehispánico",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿De qué están hechas las esculturas de animales de tu libro?",
+        "opciones": [
+          "De barro y piedra",
+          "De plástico",
+          "De papel",
+          "De tela"
+        ],
+        "respuestaCorrecta": "De barro y piedra",
+        "explicacion": "¡De barro y piedra! ¡Tienen miles de años! 🏺",
+        "visual": "🏺",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b3-v1-006",
+        "tema": "Fotografía artística",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Quién tomó las fotos en blanco y negro del libro?",
+        "opciones": [
+          "Manuel Álvarez Bravo",
+          "Mario Núñez",
+          "Un niño",
+          "Un robot"
+        ],
+        "respuestaCorrecta": "Manuel Álvarez Bravo",
+        "explicacion": "¡Manuel Álvarez Bravo, fotógrafo mexicano! 📷",
+        "visual": "📷",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-artes-b3-v1-004",
+        "tema": "Esculturas de barro y piedra",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una escultura podemos tocarla porque tiene forma en 3 dimensiones.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Las esculturas se pueden ver desde todos lados. 🗿"
+      }
+    ]
+  },
+  "generado": "2026-03-11T11:25:00.000Z",
+  "version": "4.0-SEP"
+}

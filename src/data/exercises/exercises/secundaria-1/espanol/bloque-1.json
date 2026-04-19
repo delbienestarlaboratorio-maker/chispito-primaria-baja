@@ -1,0 +1,133 @@
+{
+  "grado": "secundaria-1",
+  "materia": "espanol",
+  "bloque": 1,
+  "nombre": "Narrativa y cuento",
+  "meses": "Agosto-Septiembre",
+  "temas": [
+    "Estructura del cuento",
+    "Narrador y personajes"
+  ],
+  "totalEjercicios": 6,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "secundaria-1-espanol-b1-001",
+        "tema": "Estructura del cuento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "opciones": [
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "secundaria-1-espanol-b1-002",
+        "tema": "Estructura del cuento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+      },
+      {
+        "id": "secundaria-1-espanol-b1-003",
+        "tema": "Estructura del cuento",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La sílaba que se pronuncia con mayor intensidad en una palabra se llama sílaba ___",
+        "respuestaCorrecta": "tónica",
+        "explicacion": "La sílaba tónica lleva el acento prosódico."
+      }
+    ],
+    "v2": [
+      {
+        "id": "secundaria-1-espanol-b1-v2-001",
+        "tema": "Narrador y personajes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?  ",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
+      },
+      {
+        "id": "secundaria-1-espanol-b1-v2-002",
+        "tema": "Narrador y personajes",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las palabras que suenan igual pero se escriben distinto y tienen diferente significado se llaman palabras ___  ",
+        "respuestaCorrecta": "homófonas",
+        "explicacion": "Ejemplo: \"hola\" (saludo) y \"ola\" (onda en el mar)."
+      },
+      {
+        "id": "secundaria-1-espanol-b1-v2-003",
+        "tema": "Narrador y personajes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En la oración \"El gato duerme\", ¿cuál es el predicado?  ",
+        "respuestaCorrecta": "duerme",
+        "explicacion": "El predicado es la acción que realiza el sujeto.",
+        "opciones": [
+          "El gato",
+          "duerme",
+          "El",
+          "gato duerme"
+        ]
+      }
+    ],
+    "preview": [
+      {
+        "id": "secundaria-1-espanol-b1-001",
+        "tema": "Estructura del cuento",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuál de estas palabras es un verbo?",
+        "respuestaCorrecta": "Correr",
+        "explicacion": "Los verbos expresan acciones, estados o procesos.",
+        "opciones": [
+          "Correr",
+          "Mesa",
+          "Bonito",
+          "Ayer"
+        ]
+      },
+      {
+        "id": "secundaria-1-espanol-b1-v2-001",
+        "tema": "Narrador y personajes",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un texto argumentativo?",
+        "respuestaCorrecta": "El que defiende una opinión o idea con razones",
+        "explicacion": "La argumentación busca persuadir o convencer al lector.",
+        "opciones": [
+          "El que cuenta una historia",
+          "El que describe un paisaje",
+          "El que defiende una opinión o idea con razones",
+          "El que da instrucciones paso a paso"
+        ]
+      },
+      {
+        "id": "secundaria-1-espanol-b1-002",
+        "tema": "Estructura del cuento",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las palabras que sirven para nombrar personas, animales o cosas se llaman sustantivos",
+        "respuestaCorrecta": "true",
+        "explicacion": "El sustantivo es la clase de palabra que designa entidades fijas."
+      }
+    ]
+  },
+  "generado": "2026-03-26T03:09:52.411Z",
+  "version": "2.0"
+}

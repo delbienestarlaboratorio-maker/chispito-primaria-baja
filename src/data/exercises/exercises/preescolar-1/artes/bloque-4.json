@@ -1,0 +1,313 @@
+{
+  "grado": "preescolar-1",
+  "materia": "artes",
+  "bloque": 4,
+  "nombre": "Teatro, dibujo y expresión creativa",
+  "libroSep": "K1MLA",
+  "paginasLibro": "133-158",
+  "meses": "Febrero–Marzo",
+  "temas": [
+    "Teatro y actuación",
+    "Dibujo libre y expresión",
+    "Artesanías mexicanas",
+    "Música y ritmo con el cuerpo"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-artes-b4-v1-001",
+        "tema": "Teatro y actuación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué necesitas para hacer una obra de teatro en tu salón?",
+        "opciones": [
+          "Personajes, un cuento y un escenario",
+          "Una computadora",
+          "Un carro",
+          "Mucho dinero"
+        ],
+        "respuestaCorrecta": "Personajes, un cuento y un escenario",
+        "explicacion": "¡Solo necesitas imaginación! Los personajes pueden ser tú y tus amigos, el cuento lo inventan, y el escenario es tu salón. 🎭✨",
+        "visual": "🎭"
+      },
+      {
+        "id": "pre1-artes-b4-v1-002",
+        "tema": "Teatro y actuación",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En el teatro, las personas actúan como personajes diferentes: pueden ser animales, superhéroes o princesas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En el teatro puedes ser quien quieras. ¡Puedes ser un león, un doctor, un pirata o una estrella! 🦁👑"
+      },
+      {
+        "id": "pre1-artes-b4-v1-003",
+        "tema": "Dibujo libre y expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando dibujas algo que sientes por dentro, como alegría o tristeza, estás haciendo...",
+        "opciones": [
+          "Expresión artística",
+          "Tarea de matemáticas",
+          "Un deporte",
+          "Cocina"
+        ],
+        "respuestaCorrecta": "Expresión artística",
+        "explicacion": "¡El arte es una forma de expresar lo que sientes! Cuando dibujas tu alegría, tu dibujo se llena de colores y formas bonitas. 🌈",
+        "visual": "🖌️"
+      },
+      {
+        "id": "pre1-artes-b4-v1-004",
+        "tema": "Artesanías mexicanas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Las artesanías son objetos hechos a mano por personas con mucha habilidad.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! En México hay artesanos que hacen objetos hermosos con sus manos: alebrijes, barro negro, textiles... ¡Son tesoros! 🎨🇲🇽"
+      },
+      {
+        "id": "pre1-artes-b4-v1-005",
+        "tema": "Artesanías mexicanas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los alebrijes?",
+        "opciones": [
+          "Figuras de animales fantásticos pintados con colores brillantes",
+          "Tipos de comida",
+          "Juguetes electrónicos",
+          "Plantas del jardín"
+        ],
+        "respuestaCorrecta": "Figuras de animales fantásticos pintados con colores brillantes",
+        "explicacion": "¡Los alebrijes son animales imaginarios de colores! Son una artesanía mexicana muy famosa en todo el mundo. 🐉🌈",
+        "visual": "🐉"
+      },
+      {
+        "id": "pre1-artes-b4-v1-006",
+        "tema": "Música y ritmo con el cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué partes del cuerpo puedes hacer ritmos musicales?",
+        "opciones": [
+          "Manos, pies y voz",
+          "Solo con los ojos",
+          "Solo con la nariz",
+          "Solo con las orejas"
+        ],
+        "respuestaCorrecta": "Manos, pies y voz",
+        "explicacion": "¡Manos para aplaudir, pies para zapatear y voz para cantar! Tu cuerpo es el instrumento más divertido. 👏🦶🎵",
+        "visual": "👏"
+      },
+      {
+        "id": "pre1-artes-b4-v1-007",
+        "tema": "Teatro y actuación",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En el teatro, las personas que actúan se llaman acto___.",
+        "respuestaCorrecta": "res",
+        "explicacion": "¡Actores! Los actores dan vida a los personajes de las historias. ¡Tú también puedes ser actor! 🌟"
+      },
+      {
+        "id": "pre1-artes-b4-v1-008",
+        "tema": "Dibujo libre y expresión",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "No existe un dibujo feo. Todos los dibujos que haces son arte porque expresan lo que sientes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todos tus dibujos son valiosos! El arte no tiene que ser perfecto — lo importante es que exprese lo que hay en tu corazón. ❤️🎨"
+      },
+      {
+        "id": "pre1-artes-b4-v1-009",
+        "tema": "Música y ritmo con el cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si la música es lenta, ¿cómo te mueves?",
+        "opciones": [
+          "Despacio y suave",
+          "Muy rápido",
+          "No te mueves",
+          "Corres"
+        ],
+        "respuestaCorrecta": "Despacio y suave",
+        "explicacion": "¡La música lenta nos invita a movernos suavecito! Como una hoja que cae del árbol. 🍂",
+        "visual": "🍂"
+      },
+      {
+        "id": "pre1-artes-b4-v1-010",
+        "tema": "Artesanías mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las figuras de animales fantásticos de colores brillantes se llaman ale___.",
+        "respuestaCorrecta": "brijes",
+        "explicacion": "¡Alebrijes! Son una artesanía mexicana que mezcla animales reales e imaginarios con colores súper brillantes. 🐉🎨"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-artes-b4-v2-001",
+        "tema": "Teatro y actuación",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son los elementos principales de una obra de teatro?  ",
+        "opciones": [
+          "Actores, escenario, vestuario e historia",
+          "Solo luces",
+          "Solo música",
+          "Solo sillas"
+        ],
+        "respuestaCorrecta": "Actores, escenario, vestuario e historia",
+        "explicacion": "¡El teatro tiene muchas partes! Los actores actúan en un escenario, con ropa especial (vestuario). ¡Todo cuenta la historia! 🎭🌟"
+      },
+      {
+        "id": "pre1-artes-b4-v2-002",
+        "tema": "Teatro y actuación",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para hacer teatro necesitas ir a un edificio grande y caro.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Puedes hacer teatro en tu salón, en tu patio, ¡en cualquier lado! Solo necesitas imaginación y ganas de actuar. 🏠🎭"
+      },
+      {
+        "id": "pre1-artes-b4-v2-003",
+        "tema": "Dibujo libre y expresión",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué diferencia hay entre un dibujo libre y una copia?  ",
+        "opciones": [
+          "En el dibujo libre tú decides qué dibujar",
+          "No hay diferencia",
+          "La copia es más fácil",
+          "El libre es incorrecto"
+        ],
+        "respuestaCorrecta": "En el dibujo libre tú decides qué dibujar",
+        "explicacion": "¡En el dibujo libre TÚ eres el artista! Decides los colores, las formas y lo que quieres expresar. ¡Es tu mundo! 🌍🖌️"
+      },
+      {
+        "id": "pre1-artes-b4-v2-004",
+        "tema": "Artesanías mexicanas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "En Oaxaca hacen una artesanía de barro negro que es famosa en todo el ___.  ",
+        "respuestaCorrecta": "mundo",
+        "explicacion": "¡El barro negro de Oaxaca es famoso en todo el mundo! Los artesanos crean piezas brillantes y hermosas. 🏺✨"
+      },
+      {
+        "id": "pre1-artes-b4-v2-005",
+        "tema": "Artesanías mexicanas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué estado de México es famoso por los alebrijes de madera?  ",
+        "opciones": [
+          "Oaxaca",
+          "Sonora",
+          "Baja California",
+          "Tamaulipas"
+        ],
+        "respuestaCorrecta": "Oaxaca",
+        "explicacion": "¡Oaxaca! Ahí los artesanos de San Martín Tilcajete tallan alebrijes de madera de copal. ¡Son increíbles! 🇲🇽🎨"
+      },
+      {
+        "id": "pre1-artes-b4-v2-006",
+        "tema": "Música y ritmo con el cuerpo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El ritmo es la manera en que se organizan los sonidos en el tiempo.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El ritmo es como el latido del corazón de la música: organiza los sonidos para crear patrones. ❤️🥁"
+      },
+      {
+        "id": "pre1-artes-b4-v2-007",
+        "tema": "Música y ritmo con el cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué instrumento musical puedes hacer con una caja de zapatos y ligas?  ",
+        "opciones": [
+          "Una guitarra",
+          "Un piano",
+          "Una trompeta",
+          "Un violín"
+        ],
+        "respuestaCorrecta": "Una guitarra",
+        "explicacion": "¡Una guitarra casera! Estiras las ligas sobre la caja y al jalarlas vibran y suenan. ¡Tu propia guitarra! 🎸"
+      },
+      {
+        "id": "pre1-artes-b4-v2-008",
+        "tema": "Dibujo libre y expresión",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los colores oscuros como el negro y el gris a veces expresan tristeza en el arte.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "Los artistas usan colores para expresar emociones: los oscuros pueden ser tristes, los brillantes alegres. ¡Cada color habla! 🎨"
+      },
+      {
+        "id": "pre1-artes-b4-v2-009",
+        "tema": "Teatro y actuación",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La ropa especial que usan los actores en el teatro se llama ves___.  ",
+        "respuestaCorrecta": "tuario",
+        "explicacion": "¡Vestuario! La ropa del teatro ayuda a los actores a verse como sus personajes: princesas, piratas, animales... 👗🎩"
+      },
+      {
+        "id": "pre1-artes-b4-v2-010",
+        "tema": "Artesanías mexicanas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los artesanos son artistas que hacen cosas hermosas con sus manos usando materiales naturales.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Exacto! Los artesanos son artistas que trabajan con barro, madera, hilo, lana... ¡Todo hecho a mano con amor! 🤲🎨"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-artes-b4-v1-001",
+        "tema": "Teatro y actuación",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué necesitas para hacer teatro en tu salón?",
+        "opciones": [
+          "Personajes, un cuento y un escenario",
+          "Una computadora",
+          "Un carro",
+          "Mucho dinero"
+        ],
+        "respuestaCorrecta": "Personajes, un cuento y un escenario",
+        "explicacion": "¡Solo imaginación! 🎭✨",
+        "visual": "🎭"
+      },
+      {
+        "id": "pre1-artes-b4-v1-005",
+        "tema": "Artesanías mexicanas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué son los alebrijes?",
+        "opciones": [
+          "Figuras de animales fantásticos de colores brillantes",
+          "Tipos de comida",
+          "Juguetes electrónicos",
+          "Plantas del jardín"
+        ],
+        "respuestaCorrecta": "Figuras de animales fantásticos de colores brillantes",
+        "explicacion": "¡Animales imaginarios llenos de color! 🐉🌈",
+        "visual": "🐉"
+      },
+      {
+        "id": "pre1-artes-b4-v1-006",
+        "tema": "Música y ritmo con el cuerpo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Con qué partes del cuerpo puedes hacer ritmos?",
+        "opciones": [
+          "Manos, pies y voz",
+          "Solo los ojos",
+          "Solo la nariz",
+          "Solo las orejas"
+        ],
+        "respuestaCorrecta": "Manos, pies y voz",
+        "explicacion": "¡Tu cuerpo es un instrumento! 👏🦶🎵",
+        "visual": "👏"
+      }
+    ]
+  },
+  "generado": "2026-03-11T11:30:00.000Z",
+  "version": "4.0-SEP"
+}

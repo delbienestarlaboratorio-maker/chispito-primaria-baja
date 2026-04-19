@@ -1,0 +1,129 @@
+{
+  "grado": "bachillerato-4",
+  "materia": "historia",
+  "bloque": 5,
+  "nombre": "Filosofía del derecho",
+  "meses": "May-Jun",
+  "temas": [
+    "Derecho natural vs positivo",
+    "Constitución Mexicana",
+    "Derechos fundamentales",
+    "Estado de derecho"
+  ],
+  "totalEjercicios": 6,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "bachillerato-4-historia-b5-001",
+        "tema": "Derecho natural vs positivo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
+        "respuestaCorrecta": "1492",
+        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
+        "opciones": [
+          "1492",
+          "1521",
+          "1810",
+          "1910"
+        ]
+      },
+      {
+        "id": "bachillerato-4-historia-b5-002",
+        "tema": "Derecho natural vs positivo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
+      },
+      {
+        "id": "bachillerato-4-historia-b5-003",
+        "tema": "Derecho natural vs positivo",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "La gran ciudad construida por los aztecas sobre un lago se llamaba ___",
+        "respuestaCorrecta": "Tenochtitlán",
+        "explicacion": "Esta ciudad fue el corazón del imperio mexica hasta la conquista española."
+      }
+    ],
+    "v2": [
+      {
+        "id": "bachillerato-4-historia-b5-v2-001",
+        "tema": "Estado de derecho",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?  ",
+        "respuestaCorrecta": "La Revolución Mexicana",
+        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
+        "opciones": [
+          "La Guerra de Reforma",
+          "La Independencia",
+          "La Revolución Mexicana",
+          "La Guerra Cristera"
+        ]
+      },
+      {
+        "id": "bachillerato-4-historia-b5-v2-002",
+        "tema": "Estado de derecho",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El Tratado de Guadalupe Hidalgo puso fin a la guerra de Reforma  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "Dicho tratado finalizó la guerra México-Estados Unidos, resultando en la pérdida de la mitad del territorio nacional."
+      },
+      {
+        "id": "bachillerato-4-historia-b5-v2-003",
+        "tema": "Estado de derecho",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Durante tres siglos, gran parte del territorio de Norteamérica y Centroamérica formó el Virreinato de la Nueva ___  ",
+        "respuestaCorrecta": "España",
+        "explicacion": "Se estableció en 1535 con Antonio de Mendoza como primer virrey."
+      }
+    ],
+    "preview": [
+      {
+        "id": "bachillerato-4-historia-b5-001",
+        "tema": "Derecho natural vs positivo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿En qué año Cristóbal Colón llegó a América?",
+        "respuestaCorrecta": "1492",
+        "explicacion": "La llegada de Colón marcó el inicio del contacto europeo con América.",
+        "opciones": [
+          "1492",
+          "1521",
+          "1810",
+          "1910"
+        ]
+      },
+      {
+        "id": "bachillerato-4-historia-b5-v2-001",
+        "tema": "Estado de derecho",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué evento de 1910 buscó terminar con la dictadura de Porfirio Díaz?",
+        "respuestaCorrecta": "La Revolución Mexicana",
+        "explicacion": "Iniciada por Francisco I. Madero con el Plan de San Luis.",
+        "opciones": [
+          "La Guerra de Reforma",
+          "La Independencia",
+          "La Revolución Mexicana",
+          "La Guerra Cristera"
+        ]
+      },
+      {
+        "id": "bachillerato-4-historia-b5-002",
+        "tema": "Derecho natural vs positivo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Miguel Hidalgo lideró el inicio de la Independencia de México",
+        "respuestaCorrecta": "true",
+        "explicacion": "Hidalgo dio el Grito de Dolores el 16 de septiembre de 1810."
+      }
+    ]
+  },
+  "generado": "2026-03-26T03:09:52.133Z",
+  "version": "2.0"
+}

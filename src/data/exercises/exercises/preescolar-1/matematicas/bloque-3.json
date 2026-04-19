@@ -1,0 +1,332 @@
+{
+  "grado": "preescolar-1",
+  "materia": "matematicas",
+  "bloque": 3,
+  "nombre": "Figuras geométricas y formas",
+  "libroSep": "K1LMA",
+  "paginasLibro": "41-55",
+  "meses": "Diciembre–Enero",
+  "temas": [
+    "Círculo, cuadrado y triángulo",
+    "Figuras en la vida real",
+    "Lados y esquinas",
+    "Patrones con figuras"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-mat-b3-v1-001",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué forma tiene una pelota?",
+        "opciones": [
+          "Círculo (redonda) ⚽",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Círculo (redonda) ⚽",
+        "explicacion": "¡La pelota es redonda como un círculo! El círculo no tiene esquinas ni lados rectos. ⚽⭕",
+        "visual": "⭕",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 43
+        }
+      },
+      {
+        "id": "pre1-mat-b3-v1-002",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El triángulo tiene 3 lados y 3 esquinas.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 'Tri' significa 3. El triángulo tiene 3 lados y 3 esquinas (vértices). 🔺3️⃣",
+        "visual": "🔺"
+      },
+      {
+        "id": "pre1-mat-b3-v1-003",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuántos lados tiene un cuadrado?",
+        "opciones": [
+          "4",
+          "3",
+          "5",
+          "0"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 lados iguales! El cuadrado tiene 4 lados del mismo tamaño y 4 esquinas. ⬜4️⃣",
+        "visual": "⬜"
+      },
+      {
+        "id": "pre1-mat-b3-v1-004",
+        "tema": "Figuras en la vida real",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué forma tiene una rebanada de pizza? 🍕",
+        "opciones": [
+          "Triángulo 🔺",
+          "Círculo ⭕",
+          "Cuadrado ⬜",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Triángulo 🔺",
+        "explicacion": "¡La rebanada de pizza parece un triángulo! La pizza completa es un círculo, pero cada rebanada es un triángulo. 🍕🔺",
+        "visual": "🍕"
+      },
+      {
+        "id": "pre1-mat-b3-v1-005",
+        "tema": "Figuras en la vida real",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Una ventana tiene forma de cuadrado o rectángulo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La mayoría de las ventanas son cuadradas o rectangulares. ¡Las figuras están en todas partes! 🪟⬜"
+      },
+      {
+        "id": "pre1-mat-b3-v1-006",
+        "tema": "Lados y esquinas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "El círculo no tiene lados ni esqu___.",
+        "respuestaCorrecta": "inas",
+        "explicacion": "¡Esquinas! El círculo es suavecito, redondo, sin esquinas ni lados rectos. ¡Es único! ⭕"
+      },
+      {
+        "id": "pre1-mat-b3-v1-007",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué sigue? ⭕🔺⭕🔺⭕___",
+        "opciones": [
+          "🔺",
+          "⭕",
+          "⬜",
+          "⭐"
+        ],
+        "respuestaCorrecta": "🔺",
+        "explicacion": "¡El triángulo! El patrón es: círculo, triángulo, círculo, triángulo — se repite. ¡Después del círculo va el triángulo! 🔺",
+        "visual": "⭕🔺⭕🔺⭕"
+      },
+      {
+        "id": "pre1-mat-b3-v1-008",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué forma tiene una rueda de bicicleta? 🚲",
+        "opciones": [
+          "Círculo ⭕",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Rectángulo"
+        ],
+        "respuestaCorrecta": "Círculo ⭕",
+        "explicacion": "¡Las ruedas son circulares! Si fueran cuadradas, ¡la bicicleta no rodaría! 🚲⭕",
+        "visual": "🚲"
+      },
+      {
+        "id": "pre1-mat-b3-v1-009",
+        "tema": "Lados y esquinas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El cuadrado y el triángulo tienen esquinas, pero el círculo no.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Correcto! El cuadrado tiene 4 esquinas, el triángulo 3, y el círculo no tiene ninguna. ⬜🔺⭕"
+      },
+      {
+        "id": "pre1-mat-b3-v1-010",
+        "tema": "Figuras en la vida real",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué forma tiene un reloj redondo? ⏰",
+        "opciones": [
+          "Círculo ⭕",
+          "Triángulo 🔺",
+          "Cuadrado ⬜",
+          "Pentágono"
+        ],
+        "respuestaCorrecta": "Círculo ⭕",
+        "explicacion": "¡Los relojes redondos son circulares! También hay relojes cuadrados. ⏰⭕",
+        "visual": "⏰"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-mat-b3-v2-001",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuál es la diferencia entre un cuadrado y un rectángulo?  ",
+        "opciones": [
+          "El cuadrado tiene los 4 lados iguales, el rectángulo tiene 2 largos y 2 cortos",
+          "No hay diferencia",
+          "El rectángulo es redondo",
+          "El cuadrado tiene 3 lados"
+        ],
+        "respuestaCorrecta": "El cuadrado tiene los 4 lados iguales, el rectángulo tiene 2 largos y 2 cortos",
+        "explicacion": "¡El cuadrado tiene todos sus lados iguales! El rectángulo tiene 2 lados largos y 2 cortos. ¡Son primos! ⬜📏",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LMA",
+          "pagina": 48
+        }
+      },
+      {
+        "id": "pre1-mat-b3-v2-002",
+        "tema": "Lados y esquinas",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Las esquinas de un cuadrado se llaman vér___.  ",
+        "respuestaCorrecta": "tices",
+        "explicacion": "¡Vértices! Es el nombre matemático de las esquinas. El cuadrado tiene 4 vértices. 📐"
+      },
+      {
+        "id": "pre1-mat-b3-v2-003",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sigue? ⬜⬜🔺⬜⬜🔺⬜⬜___  ",
+        "opciones": [
+          "🔺",
+          "⬜",
+          "⭕",
+          "⭐"
+        ],
+        "respuestaCorrecta": "🔺",
+        "explicacion": "¡El triángulo! El patrón es: cuadrado, cuadrado, triángulo — se repite cada 3. 🔺"
+      },
+      {
+        "id": "pre1-mat-b3-v2-004",
+        "tema": "Figuras en la vida real",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los señalamientos de tránsito de 'Alto' tienen forma de octágono (8 lados).  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El señalamiento de 'Alto' es un octágono, tiene 8 lados. ¡Es la única señal con esa forma! 🛑"
+      },
+      {
+        "id": "pre1-mat-b3-v2-005",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si cortas un cuadrado por la diagonal, ¿qué figuras obtienes?  ",
+        "opciones": [
+          "2 triángulos",
+          "2 círculos",
+          "2 cuadrados",
+          "1 rectángulo"
+        ],
+        "respuestaCorrecta": "2 triángulos",
+        "explicacion": "¡2 triángulos! Si cortas un cuadrado de esquina a esquina, cada mitad es un triángulo. ✂️⬜➡️🔺🔺"
+      },
+      {
+        "id": "pre1-mat-b3-v2-006",
+        "tema": "Lados y esquinas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuántas esquinas tiene un rectángulo?  ",
+        "opciones": [
+          "4",
+          "3",
+          "5",
+          "2"
+        ],
+        "respuestaCorrecta": "4",
+        "explicacion": "¡4 esquinas! Como el cuadrado, el rectángulo tiene 4 esquinas (vértices). Son de la misma familia. 📐4️⃣"
+      },
+      {
+        "id": "pre1-mat-b3-v2-007",
+        "tema": "Patrones con figuras",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Un patrón es algo que se rep___.  ",
+        "respuestaCorrecta": "ite",
+        "explicacion": "¡Se repite! Los patrones son secuencias que se repiten una y otra vez. ¡Los vemos en la ropa, en los azulejos, en la naturaleza! 🔄"
+      },
+      {
+        "id": "pre1-mat-b3-v2-008",
+        "tema": "Figuras en la vida real",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Las pirámides de Egipto tienen forma de triángulo cuando las ves de lado.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! De frente parecen triángulos enormes. En realidad son pirámides (triángulos en 3D con base cuadrada). 🔺🏛️"
+      },
+      {
+        "id": "pre1-mat-b3-v2-009",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Podemos hacer un cuadrado con 4 triángulos.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 4 triángulos rectángulos, puestos con las puntas al centro, forman un cuadrado perfecto. ¡Geometría mágica! 🔺🔺🔺🔺➡️⬜"
+      },
+      {
+        "id": "pre1-mat-b3-v2-010",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué sigue? ⭕⭕⬜⭕⭕⬜___  ",
+        "opciones": [
+          "⭕",
+          "⬜",
+          "🔺",
+          "⭐"
+        ],
+        "respuestaCorrecta": "⭕",
+        "explicacion": "¡Un círculo! El patrón es: círculo, círculo, cuadrado — y se repite. Después del cuadrado van 2 círculos. ⭕⭕"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-mat-b3-v1-001",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué forma tiene una pelota?",
+        "opciones": [
+          "Círculo ⚽",
+          "Cuadrado ⬜",
+          "Triángulo 🔺",
+          "Estrella ⭐"
+        ],
+        "respuestaCorrecta": "Círculo ⚽",
+        "explicacion": "¡Redonda! ⭕",
+        "visual": "⭕",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-mat-b3-v1-007",
+        "tema": "Patrones con figuras",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué sigue? ⭕🔺⭕🔺⭕___",
+        "opciones": [
+          "🔺",
+          "⭕",
+          "⬜",
+          "⭐"
+        ],
+        "respuestaCorrecta": "🔺",
+        "explicacion": "¡Triángulo! Se repite. 🔺",
+        "visual": "⭕🔺⭕🔺⭕"
+      },
+      {
+        "id": "pre1-mat-b3-v1-002",
+        "tema": "Círculo, cuadrado y triángulo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El triángulo tiene 3 lados.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! 'Tri' = 3. 🔺3️⃣",
+        "visual": "🔺"
+      }
+    ]
+  },
+  "generado": "2026-03-11T12:50:00.000Z",
+  "version": "4.0-SEP"
+}

@@ -1,0 +1,336 @@
+{
+  "grado": "preescolar-1",
+  "materia": "conocimiento",
+  "bloque": 2,
+  "nombre": "Mi familia y las personas que me rodean",
+  "libroSep": "K1LPA",
+  "paginasLibro": "35-55",
+  "meses": "Octubre–Noviembre",
+  "temas": [
+    "Nuestras familias son distintas",
+    "Mis amigos de la escuela",
+    "Quiénes me cuidan",
+    "Sentimientos y emociones"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-conoc-b2-v1-001",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "En tu libro dice que 'nuestras familias son distintas'. ¿Qué significa?",
+        "opciones": [
+          "Que cada familia es diferente y especial",
+          "Que solo hay un tipo de familia",
+          "Que las familias no importan",
+          "Que todas son iguales"
+        ],
+        "respuestaCorrecta": "Que cada familia es diferente y especial",
+        "explicacion": "¡Cada familia es única y especial! Hay familias grandes, pequeñas, con abuelos, con mamá, con papá... ¡Todas son hermosas! 👨‍👩‍👧‍👦",
+        "visual": "👨‍👩‍👧",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v1-002",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Todas las familias son iguales, siempre tienen mamá, papá e hijos.",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Las familias son diferentes: algunas tienen solo mamá, otras tienen abuelos, otras tienen tíos. ¡Todas son válidas y llenas de amor! ❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v1-003",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué cosas puedes hacer con tus amigos en la escuela?",
+        "opciones": [
+          "Jugar, platicar y aprender juntos",
+          "Pelear",
+          "Ignorarlos",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Jugar, platicar y aprender juntos",
+        "explicacion": "¡Los amigos hacen la escuela más divertida! Juntos jugamos, platicamos, compartimos y aprendemos. 👫😊",
+        "visual": "👫"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-004",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Mi mamá, mi papá, mis abuelos y mis maestros son personas que me cuidan.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Hay muchas personas que te quieren y cuidan. ¡Son tu red de amor y protección! 🤗❤️"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-005",
+        "tema": "Sentimientos y emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando algo te hace sentir contento, tu emoción se llama...",
+        "opciones": [
+          "Alegría",
+          "Tristeza",
+          "Enojo",
+          "Miedo"
+        ],
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "¡Alegría! Es la emoción que sentimos cuando estamos contentos. ¡Como cuando juegas con tus amigos! 😊🌈",
+        "visual": "😊"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-006",
+        "tema": "Sentimientos y emociones",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Está bien sentir tristeza a veces. Todas las emociones son normales.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Todas las emociones son normales! A veces estamos tristes, a veces contentos. Lo importante es hablar de lo que sentimos. 💙"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-007",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Las personas de mi familia que me quieren mucho son mi fami___.",
+        "respuestaCorrecta": "lia",
+        "explicacion": "¡Tu familia! Son las personas que te aman, te cuidan y te acompañan. ¡Tu familia es tu tesoro! 💎❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v1-008",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Para ser un buen amigo, lo más importante es...",
+        "opciones": [
+          "Respetar, compartir y escuchar",
+          "Pegar",
+          "Gritar",
+          "No hablar"
+        ],
+        "respuestaCorrecta": "Respetar, compartir y escuchar",
+        "explicacion": "¡Los buenos amigos se respetan, comparten y se escuchan! La amistad se cuida con cariño. 🤝💖",
+        "visual": "🤝"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-009",
+        "tema": "Quiénes me cuidan",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Si te sientes mal o te duele algo, ¿a quién le dices?",
+        "opciones": [
+          "A un adulto de confianza",
+          "A nadie",
+          "A un extraño",
+          "A un gatito"
+        ],
+        "respuestaCorrecta": "A un adulto de confianza",
+        "explicacion": "¡Siempre le dices a un adulto de confianza! Tu mamá, papá, abuelita o maestra te pueden ayudar. 🤗"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-010",
+        "tema": "Sentimientos y emociones",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "Cuando algo me da mucho gusto sonrío porque siento ale___.",
+        "respuestaCorrecta": "gría",
+        "explicacion": "¡Alegría! La sonrisa es la señal de que estamos contentos. ¡Sonreír es contagioso! 😊🌞"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-conoc-b2-v2-001",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "En el libro aparecen dos familias diferentes. ¿Qué tienen en común?  ",
+        "opciones": [
+          "Ambas se aman y se cuidan",
+          "Nada",
+          "Son idénticas",
+          "Se pelean"
+        ],
+        "respuestaCorrecta": "Ambas se aman y se cuidan",
+        "explicacion": "¡Aunque las familias se ven diferentes por fuera, por dentro todas comparten lo mismo: amor y cuidado! ❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v2-002",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Para tener amigos, todos tienen que ser iguales a mí, pensar igual y verse igual.  ",
+        "respuestaCorrecta": "false",
+        "explicacion": "¡No! Los amigos pueden ser muy diferentes a ti. ¡La diversidad hace la amistad más rica y divertida! 🌈👫"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-003",
+        "tema": "Quiénes me cuidan",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La persona que me enseña en la escuela es mi maes___.  ",
+        "respuestaCorrecta": "tra",
+        "explicacion": "¡Tu maestra o maestro! Te ayudan a aprender, descubrir y crecer. ¡Son personas muy importantes en tu vida! 👩‍🏫📚"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-004",
+        "tema": "Sentimientos y emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Cuáles son las 4 emociones básicas?  ",
+        "opciones": [
+          "Alegría, tristeza, miedo y enojo",
+          "Solo alegría",
+          "Aburrimiento y sueño",
+          "Hambre y sed"
+        ],
+        "respuestaCorrecta": "Alegría, tristeza, miedo y enojo",
+        "explicacion": "¡Las 4 emociones básicas! Todas son normales y necesarias. Lo importante es saber nombrarlas. 😊😢😨😡"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-005",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En algunas familias viven los abuelos junto con los nietos, y eso es bonito.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Muchas familias mexicanas incluyen a los abuelos. Ellos comparten sabiduría, cariño e historias. 👴👵❤️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v2-006",
+        "tema": "Mis amigos de la escuela",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "Si un compañero está solo y triste, ¿qué puedes hacer?  ",
+        "opciones": [
+          "Invitarlo a jugar y preguntarle cómo se siente",
+          "Reírte",
+          "Ignorarlo",
+          "Correr"
+        ],
+        "respuestaCorrecta": "Invitarlo a jugar y preguntarle cómo se siente",
+        "explicacion": "¡Ser amable y acercarte! A veces solo necesita que alguien le pregunte '¿estás bien?'. ¡Eso cambia todo! 🤗"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-007",
+        "tema": "Sentimientos y emociones",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Cuando algo me asusta, la emoción que siento se llama mi___.  ",
+        "respuestaCorrecta": "edo",
+        "explicacion": "¡Miedo! Es normal sentir miedo a veces. Lo valiente es decirlo y pedir ayuda. 💪😨"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-008",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Nunca debes irte con una persona desconocida, aunque te ofrezca dulces.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Nunca te vayas con desconocidos! Si alguien que no conoces quiere llevarte, di NO y corre a un adulto de confianza. 🚫"
+      },
+      {
+        "id": "pre1-conoc-b2-v2-009",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es lo más importante que todas las familias deben tener?  ",
+        "opciones": [
+          "Amor, respeto y comunicación",
+          "Una casa grande",
+          "Mucho dinero",
+          "Muchos juguetes"
+        ],
+        "respuestaCorrecta": "Amor, respeto y comunicación",
+        "explicacion": "¡Lo más importante es el amor, respeto y comunicación! Con eso, cualquier familia es feliz. ❤️🗣️",
+        "fuenteSEP": true,
+        "libroSep": {
+          "codigo": "K1LPA",
+          "pagina": 40
+        }
+      },
+      {
+        "id": "pre1-conoc-b2-v2-010",
+        "tema": "Sentimientos y emociones",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Hablar de lo que sentimos nos ayuda a estar mejor.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Expresar nuestras emociones es sano. Cuando dices 'estoy triste' o 'estoy enojado', empiezas a sentirte mejor. 💬❤️"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-conoc-b2-v1-001",
+        "tema": "Nuestras familias son distintas",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "'Nuestras familias son distintas' — ¿Qué significa?",
+        "opciones": [
+          "Que cada familia es diferente y especial",
+          "Que solo hay un tipo",
+          "Que no importan",
+          "Que son iguales"
+        ],
+        "respuestaCorrecta": "Que cada familia es diferente y especial",
+        "explicacion": "¡Todas las familias son hermosas! 👨‍👩‍👧‍👦",
+        "visual": "👨‍👩‍👧",
+        "fuenteSEP": true
+      },
+      {
+        "id": "pre1-conoc-b2-v1-005",
+        "tema": "Sentimientos y emociones",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando estás contento, tu emoción se llama...",
+        "opciones": [
+          "Alegría",
+          "Tristeza",
+          "Enojo",
+          "Miedo"
+        ],
+        "respuestaCorrecta": "Alegría",
+        "explicacion": "¡Alegría! 😊🌈",
+        "visual": "😊"
+      },
+      {
+        "id": "pre1-conoc-b2-v1-004",
+        "tema": "Quiénes me cuidan",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "Mi mamá, papá, abuelos y maestros me cuidan.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Son tu red de amor! 🤗❤️"
+      }
+    ]
+  },
+  "generado": "2026-03-11T11:45:00.000Z",
+  "version": "4.0-SEP"
+}

@@ -1,0 +1,315 @@
+{
+  "grado": "preescolar-1",
+  "materia": "conocimiento",
+  "bloque": 5,
+  "nombre": "Las estaciones, el clima y nuestro planeta",
+  "libroSep": "K1LPA",
+  "paginasLibro": "111-150",
+  "meses": "Abril–Junio",
+  "temas": [
+    "Las 4 estaciones del año",
+    "El clima y el tiempo",
+    "Día y noche",
+    "Cuidar nuestro planeta"
+  ],
+  "totalEjercicios": 23,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "pre1-conoc-b5-v1-001",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las 4 estaciones del año?",
+        "opciones": [
+          "Primavera, verano, otoño e invierno",
+          "Lunes y viernes",
+          "Mañana y noche",
+          "Enero y diciembre"
+        ],
+        "respuestaCorrecta": "Primavera, verano, otoño e invierno",
+        "explicacion": "¡Las 4 estaciones! En primavera florecen las flores, en verano hace calor, en otoño caen las hojas, y en invierno hace frío. 🌸☀️🍂❄️",
+        "visual": "🌸"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-002",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "En primavera las flores se abren y los árboles se llenan de hojas verdes.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La primavera es cuando la naturaleza despierta: flores, mariposas, pajaritos... ¡Todo cobra vida! 🌸🦋",
+        "visual": "🌸"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-003",
+        "tema": "El clima y el tiempo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "Cuando las nubes están oscuras y grandes, ¿qué va a pasar?",
+        "opciones": [
+          "Va a llover 🌧️",
+          "Va a nevar ❄️",
+          "Nada",
+          "Sale el arcoíris"
+        ],
+        "respuestaCorrecta": "Va a llover 🌧️",
+        "explicacion": "¡Las nubes oscuras traen lluvia! Están llenas de gotitas de agua que caen cuando ya no caben más. 🌧️🌥️",
+        "visual": "🌧️"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-004",
+        "tema": "El clima y el tiempo",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El arcoíris aparece cuando llueve y sale el sol al mismo tiempo.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La luz del sol pasa por las gotitas de lluvia y se divide en colores. ¡Es magia de la naturaleza! 🌈☀️🌧️"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-005",
+        "tema": "Día y noche",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué aparece en el cielo durante la noche?",
+        "opciones": [
+          "La luna y las estrellas 🌙⭐",
+          "El sol ☀️",
+          "Un arcoíris 🌈",
+          "Nubes rojas"
+        ],
+        "respuestaCorrecta": "La luna y las estrellas 🌙⭐",
+        "explicacion": "¡La luna y las estrellas brillan de noche! El sol se esconde y la luna nos acompaña mientras dormimos. 🌙⭐",
+        "visual": "🌙"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-006",
+        "tema": "Día y noche",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "El sol sale en la mañana y se esconde en la tarde.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Al amanecer el sol aparece y al atardecer se oculta. ¡Por eso hay día y noche! ☀️🌅"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-007",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué podemos hacer para cuidar nuestro planeta Tierra?",
+        "opciones": [
+          "No tirar basura, ahorrar agua y plantar árboles",
+          "Tirar basura al río",
+          "Desperdiciar agua",
+          "Quemar plástico"
+        ],
+        "respuestaCorrecta": "No tirar basura, ahorrar agua y plantar árboles",
+        "explicacion": "¡Cuidar la Tierra es responsabilidad de todos! No tirar basura, ahorrar agua y plantar árboles son las mejores formas. 🌍💚",
+        "visual": "🌍"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-008",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "true_false",
+        "nivel": "v1",
+        "pregunta": "La Tierra es el único planeta donde vivimos, por eso debemos cuidarla.",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Solo tenemos una Tierra! No hay planeta B. ¡Cuidarla es cuidarnos a nosotros mismos! 🌍❤️"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-009",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "fill_blank",
+        "nivel": "v1",
+        "pregunta": "En otoño las hojas de los árboles cambian de color y se ___.",
+        "respuestaCorrecta": "caen",
+        "explicacion": "¡Se caen! Las hojas se vuelven amarillas, naranjas y rojas, y luego caen al suelo. ¡Es un espectáculo de colores! 🍂🍁",
+        "visual": "🍁"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-010",
+        "tema": "El clima y el tiempo",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué te pones cuando hace mucho frío?",
+        "opciones": [
+          "Chamarra, gorro y guantes 🧥",
+          "Traje de baño 🩱",
+          "Shorts y playera 🩳",
+          "Nada"
+        ],
+        "respuestaCorrecta": "Chamarra, gorro y guantes 🧥",
+        "explicacion": "¡Cuando hace frío nos abrigamos! La ropa caliente protege nuestro cuerpo del frío. 🧥🧣🧤",
+        "visual": "🧥"
+      }
+    ],
+    "v2": [
+      {
+        "id": "pre1-conoc-b5-v2-001",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿En qué estación del año hace más calor en México?  ",
+        "opciones": [
+          "En verano ☀️",
+          "En invierno ❄️",
+          "En otoño 🍂",
+          "En primavera 🌸"
+        ],
+        "respuestaCorrecta": "En verano ☀️",
+        "explicacion": "¡En verano! Los días son largos, hace mucho calor y es perfecto para ir a la playa o al parque. ☀️🏖️"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-002",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "La estación más fría del año es el invier___.  ",
+        "respuestaCorrecta": "no",
+        "explicacion": "¡Invierno! En diciembre y enero hace frío, los días son más cortos y en algunos lugares nieva. ❄️🎄"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-003",
+        "tema": "El clima y el tiempo",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "El viento se produce cuando el aire se mueve de un lugar a otro.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! El aire caliente sube y el frío baja, y eso crea el viento. ¡Por eso un ventilador nos refresca! 💨"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-004",
+        "tema": "Día y noche",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Por qué hay día y noche?  ",
+        "opciones": [
+          "Porque la Tierra gira y una parte mira al sol y la otra no",
+          "Porque alguien apaga la luz",
+          "Porque la luna tapa el sol",
+          "No se sabe"
+        ],
+        "respuestaCorrecta": "Porque la Tierra gira y una parte mira al sol y la otra no",
+        "explicacion": "¡La Tierra gira como un trompo! La parte que mira al sol tiene día, y la parte de atrás tiene noche. 🌍🔄☀️"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-005",
+        "tema": "Día y noche",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Cuando en México es de día, en China es de noche.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Como la Tierra es redonda, cuando de un lado es de día, del otro es de noche. ¡El sol no puede alumbrar todo al mismo tiempo! 🌍"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-006",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué son las 3 R de la ecología?  ",
+        "opciones": [
+          "Reducir, Reutilizar y Reciclar",
+          "Romper, Regar y Rascar",
+          "Reír, Rabiar y Rodar",
+          "No existen"
+        ],
+        "respuestaCorrecta": "Reducir, Reutilizar y Reciclar",
+        "explicacion": "¡Las 3 R! Reducir lo que compramos, Reutilizar lo que podamos, y Reciclar lo que ya no sirve. ♻️🌍💚"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-007",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "fill_blank",
+        "nivel": "v2",
+        "pregunta": "Para cuidar el agua, debemos cerrar la llave mientras nos lava___ los dientes.  ",
+        "respuestaCorrecta": "mos",
+        "explicacion": "¡Cerrar la llave ahorra litros de agua! Cada gota cuenta para cuidar este recurso tan valioso. 💧🦷"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-008",
+        "tema": "El clima y el tiempo",
+        "tipo": "multiple_choice",
+        "nivel": "v2",
+        "pregunta": "¿Qué es un termómetro?  ",
+        "opciones": [
+          "Un instrumento que mide la temperatura",
+          "Un tipo de comida",
+          "Un animal",
+          "Una estrella"
+        ],
+        "respuestaCorrecta": "Un instrumento que mide la temperatura",
+        "explicacion": "¡El termómetro mide la temperatura! Nos dice si hace frío o calor con números (grados). También mide si tenemos fiebre. 🌡️"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-009",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "Los árboles ayudan a limpiar el aire que respiramos.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! Los árboles absorben el CO2 (aire sucio) y liberan oxígeno (aire limpio). ¡Son los pulmones del planeta! 🌳💨"
+      },
+      {
+        "id": "pre1-conoc-b5-v2-010",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "true_false",
+        "nivel": "v2",
+        "pregunta": "En México, la Navidad se celebra en invierno.  ",
+        "respuestaCorrecta": "true",
+        "explicacion": "¡Sí! La Navidad es el 25 de diciembre, en pleno invierno. ¡Por eso hace frío (en la mayoría de México) y nos abrigamos! 🎄❄️"
+      }
+    ],
+    "preview": [
+      {
+        "id": "pre1-conoc-b5-v1-001",
+        "tema": "Las 4 estaciones del año",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cuáles son las 4 estaciones?",
+        "opciones": [
+          "Primavera, verano, otoño e invierno",
+          "Lunes y viernes",
+          "Mañana y noche",
+          "Enero y diciembre"
+        ],
+        "respuestaCorrecta": "Primavera, verano, otoño e invierno",
+        "explicacion": "¡4 estaciones! 🌸☀️🍂❄️",
+        "visual": "🌸"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-005",
+        "tema": "Día y noche",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Qué hay en el cielo de noche?",
+        "opciones": [
+          "La luna y estrellas 🌙",
+          "El sol ☀️",
+          "Un arcoíris 🌈",
+          "Nubes rojas"
+        ],
+        "respuestaCorrecta": "La luna y estrellas 🌙",
+        "explicacion": "¡Luna y estrellas! 🌙⭐",
+        "visual": "🌙"
+      },
+      {
+        "id": "pre1-conoc-b5-v1-007",
+        "tema": "Cuidar nuestro planeta",
+        "tipo": "multiple_choice",
+        "nivel": "v1",
+        "pregunta": "¿Cómo cuidamos la Tierra?",
+        "opciones": [
+          "No tirar basura y ahorrar agua",
+          "Tirar basura al río",
+          "Desperdiciar agua",
+          "Quemar plástico"
+        ],
+        "respuestaCorrecta": "No tirar basura y ahorrar agua",
+        "explicacion": "¡Cuidar la Tierra! 🌍💚",
+        "visual": "🌍"
+      }
+    ]
+  },
+  "generado": "2026-03-11T12:00:00.000Z",
+  "version": "4.0-SEP"
+}
