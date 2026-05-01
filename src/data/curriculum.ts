@@ -31,6 +31,13 @@ export type Grado = {
 
 // === MATERIAS ===
 export const MATERIAS: Record<string, Materia> = {
+    chispito_plus: {
+        id: "chispito_plus",
+        nombre: "Chispito Plus (Habilidades)",
+        emoji: "🏙️",
+        color: "#F43F5E",
+        bgColor: "#FFF1F2",
+    },
     matematicas: {
         id: "matematicas",
         nombre: "Matemáticas",
@@ -388,3 +395,24 @@ export type Ejercicio = {
     nivel: "v1" | "v2" | "v3"; // v1=gratis, v2=premium, v3=suscripcion
     imagenUrl?: string;
 };
+
+// === UNIVERSIDAD (Chispito Pro) ===
+export type Carrera = {
+    nombre: string;
+    slug: string;
+    emoji: string;
+    color: string;
+    gradient: string;
+    descripcion: string;
+};
+
+export const CARRERAS_UNIVERSITARIAS: Carrera[] = [
+    {
+        nombre: "Licenciatura en Enfermería",
+        slug: "enfermeria",
+        emoji: "⚕️",
+        color: "#0F766E",
+        gradient: "from-teal-700 to-cyan-900",
+        descripcion: "Programa clínico avanzado, simuladores UCI, herramientas PAE y cálculo intravenoso."
+    }
+];
