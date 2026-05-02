@@ -1,0 +1,27 @@
+{
+  "grado":"primaria-2","materia":"educacion_fisica","bloque":2,"nombre":"Juegos cooperativos y reglas","meses":"Octubre - Noviembre",
+  "temas":["Juegos con reglas claras","Trabajo en equipo","Ganar y perder con respeto","Juegos tradicionales mexicanos"],
+  "totalEjercicios":10,
+  "ejercicios":{
+    "v1":[
+      {"id":"pri2-efi-b2-v1-001","tema":"Juegos con reglas claras","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué es importante seguir las reglas cuando juegas con tus amiguitos?","opciones":["¡Para que el juego sea J-U-S-T-O y divertido para TODOS los participantes! ⚖️😊","Destrozadoras.","Romper.","Fétidas."],"respuestaCorrecta":"¡Para que el juego sea J-U-S-T-O y divertido para TODOS los participantes! ⚖️😊","explicacion":"Las reglas hacen que todos jueguen igual y nadie haga trampa. ⚖️😊","visual":"⚖️😊"},
+      {"id":"pri2-efi-b2-v1-002","tema":"Ganar y perder con respeto","tipo":"true_false","nivel":"v1","pregunta":"Cuando pierdes en un juego es correcto enojarte mucho y dejar de hablarles a tus amigos.","respuestaCorrecta":"false","explicacion":"¡¡Falso!! Perder es normal y hay que felicitar al ganador. ¡Buen deportista! 🤝🏆"},
+      {"id":"pri2-efi-b2-v1-003","tema":"Trabajo en equipo","tipo":"fill_blank","nivel":"v1","pregunta":"Cuando todos los jugadores ayudan unidos para ganar, eso se llama trabajo en E-Q-U-I-P-____ .","respuestaCorrecta":"O","explicacion":"¡O!. ¡EQUIPO! Juntos somos más fuertes. 🤜🤛"},
+      {"id":"pri2-efi-b2-v1-004","tema":"Juegos tradicionales mexicanos","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llama el juego mexicano donde cantas 'A la víbora de la mar' y pasas por debajo de los brazos?","opciones":["¡La V-Í-B-O-R-A de la mar, juego cantado tradicional mexicano! 🐍🎶","Hundan.","Romper.","Máquinas."],"respuestaCorrecta":"¡La V-Í-B-O-R-A de la mar, juego cantado tradicional mexicano! 🐍🎶","explicacion":"La Víbora de la Mar es un juego tradicional donde hacen fila y pasan bajo los brazos. 🐍🎶"},
+      {"id":"pri2-efi-b2-v1-005","tema":"Juegos con reglas claras","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Qué pasa si un jugador NO respeta las reglas del juego?","opciones":["¡Hace T-R-A-M-P-A y eso no es justo para los demás compañeros! 🚫😤","Calculadoras.","Tristes.","Llorándonos."],"respuestaCorrecta":"¡Hace T-R-A-M-P-A y eso no es justo para los demás compañeros! 🚫😤","explicacion":"No respetar reglas = trampa. ¡Juego limpio siempre! 🚫😤"}
+    ],
+    "v2":[
+      {"id":"pri2-efi-b2-v2-001","tema":"Juegos con reglas claras","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Qiisiuiisilieilsí r re eg gl la as s_ = =_ j ju ue eg go o_ j ju us st to o_ p pa ar ra a_ ? ??","opciones":["¡J JU US ST TO O_ y y_ d di iv ve er rt ti id do o_ p pa ar ra a_ T TO OD DO OS S ! !! ⚖️😊","Uililsilinilil","Eslisisileisil","Ciliilisijilsiílisins"],"respuestaCorrecta":"¡J JU US ST TO O_ y y_ d di iv ve er rt ti id do o_ p pa ar ra a_ T TO OD DO OS S ! !! ⚖️😊","explicacion":"R Re eg gl la as s_ = =_ j ju us st ti ic ci ia a !! ⚖️😊!"},
+      {"id":"pri2-efi-b2-v2-002","tema":"Ganar y perder con respeto","tipo":"true_false","nivel":"v2","pregunta":"Eilisisi p pe er rd de er r_ y y_ e en no oj ja ar rs se e_ m mu uc ch ho o_ e es s_ c co or rr re ec ct to o ? ?? .!?o_¡_?si.i!s!!","respuestaCorrecta":"false","explicacion":"P Pe er rd de er r_ c co on n_ r re es sp pe et to o !! 🤝🏆!"},
+      {"id":"pri2-efi-b2-v2-003","tema":"Trabajo en equipo","tipo":"fill_blank","nivel":"v2","pregunta":"Siiisilisil j ju ug ga ad do or re es s_ a ay yu ud da an n_ j ju un nt to os s_ = =_ E EQ QU UI IP P_ __ __ _ A A A ? Aili _? ls...","respuestaCorrecta":"O","explicacion":"E EQ QU UI IP PO O !! 🤜🤛"},
+      {"id":"pri2-efi-b2-v2-004","tema":"Juegos tradicionales mexicanos","tipo":"multiple_choice","nivel":"v2","pregunta":"¿Cuiiilicáislilinitil j ju ue eg go o_ ' 'A A_ l la a_ v ví íb bo or ra a_ d de e_ l la a_ m ma ar r' ' ? ?? ?! a?_?...l?!","opciones":["¡V VÍ ÍB BO OR RA A_ d de e_ l la a_ m ma ar r ! !! 🐍🎶","Hiirilisimislisi","Siliosinsili","Oilibilislisl"],"respuestaCorrecta":"¡V VÍ ÍB BO OR RA A_ d de e_ l la a_ m ma ar r ! !! 🐍🎶","explicacion":"J Ju ue eg go o_ t tr ra ad di ic ci io on na al l !! 🐍🎶!!"},
+      {"id":"pri2-efi-b2-v2-005","tema":"Juegos con reglas claras","tipo":"true_false","nivel":"v2","pregunta":"SiisEili n no o_ r re es sp pe et ta ar r_ r re eg gl la as s_ = =_ T TR RA AM MP PA A ? ?? !","respuestaCorrecta":"true","explicacion":"T Tr ra am mp pa a_ = =_ i in nj ju us st to o !! 🚫😤"}
+    ],
+    "preview":[
+      {"id":"pri2-efi-b2-v1-001","tema":"Juegos con reglas claras","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Por qué seguir reglas al jugar?","opciones":["¡Para que sea JUSTO para todos! ⚖️","Bestias","Grises.","Feas."],"respuestaCorrecta":"¡Para que sea JUSTO para todos! ⚖️","explicacion":"Juego justo","visual":"⚖️"},
+      {"id":"pri2-efi-b2-v1-004","tema":"Juegos tradicionales mexicanos","tipo":"multiple_choice","nivel":"v1","pregunta":"¿Cómo se llama el juego 'A la víbora de la mar'?","opciones":["¡La VÍBORA de la mar! 🐍","Triste","Gris.","Feo."],"respuestaCorrecta":"¡La VÍBORA de la mar! 🐍","explicacion":"Juego tradicional"},
+      {"id":"pri2-efi-b2-v2-002","tema":"Ganar y perder con respeto","tipo":"true_false","nivel":"v2","pregunta":"Perder y enojarse mucho es correcto. ¿Verdad?","opciones":["Verdadero","Falso"],"respuestaCorrecta":"false","explicacion":"Perder con respeto"}
+    ]
+  },
+  "generado":"2026-04-27T12:00:00.000Z","version":"4.0-SEP-Calidad-Alta"
+}
