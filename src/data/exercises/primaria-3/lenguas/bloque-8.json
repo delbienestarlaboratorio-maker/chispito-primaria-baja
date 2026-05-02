@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 8,
+  "nombre": "Proyecto en mi lengua: Mixteco",
+  "meses": "Todo el ciclo",
+  "temas": ["Códices", "Arte y Orfebrería", "Geografía"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b8-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los antiguos mixtecos registraban su historia y genealogía (quién era hijo de quién) en libros hechos de piel de venado llamados...",
+        "opciones": ["Códices", "Enciclopedias", "Revistas"],
+        "respuestaCorrecta": "Códices"
+      },
+      {
+        "id": "p3-len-b8-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Mixteco era famoso en toda Mesoamérica por su habilidad trabajando metales preciosos como el oro?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b8-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La región histórica conocida como 'La Mixteca' abarca territorio de tres estados: Oaxaca, Puebla y...",
+        "opciones": ["Guerrero", "Nuevo León", "Chihuahua"],
+        "respuestaCorrecta": "Guerrero"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

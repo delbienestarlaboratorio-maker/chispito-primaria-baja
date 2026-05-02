@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 12,
+  "nombre": "Proyecto en mi lengua: Totonaco",
+  "meses": "Todo el ciclo",
+  "temas": ["El Tajín", "Vainilla", "Los Tres Corazones"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b12-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El símbolo de los tres corazones entrelazados es un diseño muy importante en la cultura...",
+        "opciones": ["Totonaca", "Huichol", "Maya"],
+        "respuestaCorrecta": "Totonaca"
+      },
+      {
+        "id": "p3-len-b12-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La Pirámide de los Nichos en El Tajín tiene exactamente 365 nichos, representando los días del año?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b12-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La flor de la orquídea que produce la vainilla, un tesoro totonaco, se poliniza tradicionalmente...",
+        "opciones": ["a mano por las mujeres totonacas", "por murciélagos", "por máquinas"],
+        "respuestaCorrecta": "a mano por las mujeres totonacas"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

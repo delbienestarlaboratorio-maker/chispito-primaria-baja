@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 13,
+  "nombre": "Proyecto en mi lengua: Tseltal",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Tseltal", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b13-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El Tseltal es una lengua de la gran familia de lenguas...",
+        "opciones": ["mayenses", "nahuas", "purépechas"],
+        "respuestaCorrecta": "mayenses"
+      },
+      {
+        "id": "p1-len-b13-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El Tseltal es una de las lenguas indígenas más habladas en Chiapas?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b13-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Aprender sobre nuestras lenguas nos ayuda a comprender mejor nuestra...",
+        "opciones": ["diversidad cultural", "televisión", "tarea de matemáticas"],
+        "respuestaCorrecta": "diversidad cultural"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

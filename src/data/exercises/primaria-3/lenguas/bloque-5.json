@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 5,
+  "nombre": "Proyecto en mi lengua: Maya",
+  "meses": "Todo el ciclo",
+  "temas": ["Ciencia Maya", "Astronomía", "Arquitectura"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b5-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los antiguos mayas fueron grandes astrónomos; lograron predecir con exactitud...",
+        "opciones": ["los eclipses solares y lunares", "el clima de todo el año", "el color del mar"],
+        "respuestaCorrecta": "los eclipses solares y lunares"
+      },
+      {
+        "id": "p3-len-b5-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El sistema de escritura maya usaba glifos (símbolos) grabados en piedra, cerámica y libros llamados códices?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b5-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "En la zona maya abundan los cenotes. Un cenote es...",
+        "opciones": ["un pozo profundo de agua dulce", "una montaña muy alta", "un desierto sin fin"],
+        "respuestaCorrecta": "un pozo profundo de agua dulce"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

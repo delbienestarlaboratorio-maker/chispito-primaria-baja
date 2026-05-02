@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 3,
+  "nombre": "Proyecto en mi lengua: Cora",
+  "meses": "Todo el ciclo",
+  "temas": ["La sierra de Nayarit", "Costumbres", "Identidad"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b3-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Cora habita principalmente en la agreste sierra del estado de...",
+        "opciones": ["Nayarit", "Tlaxcala", "Quintana Roo"],
+        "respuestaCorrecta": "Nayarit"
+      },
+      {
+        "id": "p3-len-b3-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El aislamiento en las montañas ayudó a los Coras a preservar su lengua y tradiciones durante mucho tiempo?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b3-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Una de las ceremonias más importantes de los Coras, donde se pintan el cuerpo, se llama 'La Judea' y se celebra en...",
+        "opciones": ["Semana Santa", "Navidad", "Día de Muertos"],
+        "respuestaCorrecta": "Semana Santa"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

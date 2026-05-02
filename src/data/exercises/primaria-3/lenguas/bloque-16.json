@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 16,
+  "nombre": "Proyecto en mi lengua: Zapoteco",
+  "meses": "Todo el ciclo",
+  "temas": ["Mitla", "Comercio", "Historia de Oaxaca"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b16-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Además de Monte Albán, los zapotecos construyeron otra ciudad muy importante con paredes decoradas con grecas llamada...",
+        "opciones": ["Mitla", "Tulum", "Cobá"],
+        "respuestaCorrecta": "Mitla"
+      },
+      {
+        "id": "p3-len-b16-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El zapoteco del Istmo (en Tehuantepec) se habla y se escribe mucho, y de ahí son famosas las 'tehuanas' con sus trajes bordados?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b16-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "A lo largo de la historia, los Zapotecos han sido reconocidos como excelentes comerciantes en la región de...",
+        "opciones": ["los Valles Centrales y el Istmo", "los desiertos del norte", "las costas de Baja California"],
+        "respuestaCorrecta": "los Valles Centrales y el Istmo"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

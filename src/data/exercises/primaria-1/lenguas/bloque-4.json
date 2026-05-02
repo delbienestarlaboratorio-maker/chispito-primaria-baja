@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 4,
+  "nombre": "Proyecto en mi lengua: Huichol",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Huichol (Wixárika)", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b4-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Huichol también se llama a sí mismo...",
+        "opciones": ["Wixárika", "Azteca", "Inca"],
+        "respuestaCorrecta": "Wixárika"
+      },
+      {
+        "id": "p1-len-b4-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El arte Wixárika es muy famoso por usar chaquiras de colores brillantes?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b4-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La cultura Huichol se encuentra principalmente en los estados de...",
+        "opciones": ["Jalisco y Nayarit", "Yucatán y Campeche", "Sonora y Sinaloa"],
+        "respuestaCorrecta": "Jalisco y Nayarit"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 13,
+  "nombre": "Proyecto en mi lengua: Tseltal",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Tseltal", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b13-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Al igual que el Maya, el Tseltal tiene palabras que describen muy bien la...",
+        "opciones": ["naturaleza", "vida en las grandes ciudades", "tecnología espacial"],
+        "respuestaCorrecta": "naturaleza"
+      },
+      {
+        "id": "p2-len-b13-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El respeto a los abuelos y la comunidad es muy importante en la cultura Tseltal?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b13-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Cuidar una lengua como el Tseltal significa cuidar también su...",
+        "opciones": ["sabiduría y forma de vivir", "dinero", "ropa de moda"],
+        "respuestaCorrecta": "sabiduría y forma de vivir"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

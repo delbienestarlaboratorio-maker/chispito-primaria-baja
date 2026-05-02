@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 15,
+  "nombre": "Proyecto en mi lengua: Yaqui",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Yaqui", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b15-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La Danza del Venado es una tradición muy importante del pueblo...",
+        "opciones": ["Yaqui", "Maya", "Zapoteco"],
+        "respuestaCorrecta": "Yaqui"
+      },
+      {
+        "id": "p1-len-b15-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Yaqui vive en el estado de Sonora?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b15-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Para el pueblo Yaqui, la naturaleza y los animales son muy...",
+        "opciones": ["respetados e importantes", "aburridos", "molestos"],
+        "respuestaCorrecta": "respetados e importantes"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

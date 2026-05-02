@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 17,
+  "nombre": "Proyecto en mi lengua: Tojolabal",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Tojolabal", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b17-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Tojolabal tiene una conexión muy fuerte con el cultivo de...",
+        "opciones": ["maíz y frijol", "algas marinas", "uvas para vino"],
+        "respuestaCorrecta": "maíz y frijol"
+      },
+      {
+        "id": "p2-len-b17-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Para los Tojolabales, todas las personas de la comunidad son como hermanos y deben ayudarse?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b17-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Una forma importante de mantener vivas nuestras lenguas en la escuela es...",
+        "opciones": ["aprender algunas palabras y respetarlas", "burlarse si suenan diferentes", "prohibir hablarlas"],
+        "respuestaCorrecta": "aprender algunas palabras y respetarlas"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

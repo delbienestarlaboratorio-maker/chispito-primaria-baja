@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 10,
+  "nombre": "Proyecto en mi lengua: Seri",
+  "meses": "Todo el ciclo",
+  "temas": ["El desierto y el mar", "Isla Tiburón", "Cultura Comcaac"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b10-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Un lugar sagrado y muy importante para el pueblo Seri, ubicado en el Golfo de California, es la...",
+        "opciones": ["Isla Tiburón", "Isla de las Muñecas", "Isla Mujeres"],
+        "respuestaCorrecta": "Isla Tiburón"
+      },
+      {
+        "id": "p3-len-b10-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Los Seris celebran el Año Nuevo Seri a finales de junio, coincidiendo con las primeras lluvias en el desierto?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b10-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las mujeres Seris son conocidas por pintar sus rostros con hermosos diseños de líneas y puntos hechos de colores...",
+        "opciones": ["naturales extraídos de minerales", "comprados en papelerías", "hechos de marcadores permanentes"],
+        "respuestaCorrecta": "naturales extraídos de minerales"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

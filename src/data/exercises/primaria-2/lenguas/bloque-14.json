@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 14,
+  "nombre": "Proyecto en mi lengua: Tsotsil",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Tsotsil", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b14-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las mujeres Tsotsiles tejen en telares de cintura y bordan historias de...",
+        "opciones": ["el universo y la naturaleza", "coches y aviones", "fantasmas asustadizos"],
+        "respuestaCorrecta": "el universo y la naturaleza"
+      },
+      {
+        "id": "p2-len-b14-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿San Juan Chamula es un pueblo famoso en Chiapas donde se habla Tsotsil?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b14-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Para tejer, usan colores brillantes que obtienen de manera natural de...",
+        "opciones": ["plantas e insectos", "pintura de pared", "crayolas derretidas"],
+        "respuestaCorrecta": "plantas e insectos"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

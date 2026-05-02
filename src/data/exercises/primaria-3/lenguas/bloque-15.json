@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 15,
+  "nombre": "Proyecto en mi lengua: Yaqui",
+  "meses": "Todo el ciclo",
+  "temas": ["Resistencia Yaqui", "El Río Yaqui", "La tribu"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b15-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Yaqui históricamente ha sido conocido por ser valiente y luchar fuertemente para defender...",
+        "opciones": ["su tierra y el agua del Río Yaqui", "un tesoro de oro", "una mina de diamantes"],
+        "respuestaCorrecta": "su tierra y el agua del Río Yaqui"
+      },
+      {
+        "id": "p3-len-b15-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Durante la historia de México, muchos Yaquis fueron injustamente obligados a ir hasta Yucatán para trabajar?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b15-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los Yaquis están organizados en ocho 'pueblos tradicionales'. Esta forma de organizarse les ayuda a...",
+        "opciones": ["mantenerse unidos como tribu", "jugar torneos de fútbol", "competir entre ellos"],
+        "respuestaCorrecta": "mantenerse unidos como tribu"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

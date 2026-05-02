@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 2,
+  "nombre": "Proyecto en mi lengua: Chichimeco",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Chichimeco", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b2-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La lengua Chichimeca Jonaz se habla principalmente en el estado de...",
+        "opciones": ["Guanajuato", "Yucatán", "Baja California"],
+        "respuestaCorrecta": "Guanajuato"
+      },
+      {
+        "id": "p1-len-b2-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Las lenguas indígenas nos enseñan sobre cómo vivían nuestros antepasados?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b2-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Cuando escuchamos a alguien hablar una lengua diferente a la nuestra, debemos...",
+        "opciones": ["escuchar con respeto", "ignorarlos", "reírnos"],
+        "respuestaCorrecta": "escuchar con respeto"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 7,
+  "nombre": "Proyecto en mi lengua: Mazateco",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Mazateco", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b7-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El lenguaje silbado de los mazatecos les permite comunicarse...",
+        "opciones": ["a largas distancias en las montañas", "en el fondo del mar", "solo en la oscuridad"],
+        "respuestaCorrecta": "a largas distancias en las montañas"
+      },
+      {
+        "id": "p2-len-b7-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿María Sabina fue una mujer mazateca muy famosa por su conocimiento de las plantas que curan?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b7-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El idioma mazateco es 'tonal', lo que significa que el significado de una palabra cambia dependiendo de su...",
+        "opciones": ["tono o melodía", "largo", "color escrito"],
+        "respuestaCorrecta": "tono o melodía"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

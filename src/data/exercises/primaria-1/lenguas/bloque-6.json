@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 6,
+  "nombre": "Proyecto en mi lengua: Mayo",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Mayo", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b6-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Mayo vive en el norte de México, en los estados de...",
+        "opciones": ["Sonora y Sinaloa", "Chiapas y Tabasco", "Veracruz y Puebla"],
+        "respuestaCorrecta": "Sonora y Sinaloa"
+      },
+      {
+        "id": "p1-len-b6-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Mayo también es conocido como Yoreme?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b6-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las lenguas indígenas nos conectan con nuestras...",
+        "opciones": ["raíces e historia", "películas favoritas", "tareas de matemáticas"],
+        "respuestaCorrecta": "raíces e historia"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

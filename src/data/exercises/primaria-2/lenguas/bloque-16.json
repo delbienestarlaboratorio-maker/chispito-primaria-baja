@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 16,
+  "nombre": "Proyecto en mi lengua: Zapoteco",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Zapoteco", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b16-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Un plato de comida tradicional que se disfruta mucho en la zona zapoteca de Oaxaca es...",
+        "opciones": ["las tlayudas y el mole", "la pizza italiana", "el sushi"],
+        "respuestaCorrecta": "las tlayudas y el mole"
+      },
+      {
+        "id": "p2-len-b16-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Benito Juárez, un presidente muy importante de México, era de origen zapoteco?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b16-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La gran fiesta de Oaxaca donde todos los pueblos comparten música y baile se llama...",
+        "opciones": ["Guelaguetza", "Carnaval", "Oktoberfest"],
+        "respuestaCorrecta": "Guelaguetza"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

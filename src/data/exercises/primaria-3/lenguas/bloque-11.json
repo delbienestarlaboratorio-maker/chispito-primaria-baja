@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 11,
+  "nombre": "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+  "meses": "Todo el ciclo",
+  "temas": ["Sierra Tarahumara", "Carrera de bolas", "Música"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b11-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Un juego y deporte tradicional muy importante donde los hombres Ralámuli corren pateando una bola de madera se llama...",
+        "opciones": ["Rarajípari (Carrera de bolas)", "Fútbol", "Béisbol"],
+        "respuestaCorrecta": "Rarajípari (Carrera de bolas)"
+      },
+      {
+        "id": "p3-len-b11-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Las impresionantes Barrancas del Cobre, donde viven muchos Tarahumaras, son más profundas que el Gran Cañón?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b11-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Uno de los instrumentos musicales más importantes que los Tarahumaras construyen de madera para sus fiestas es el...",
+        "opciones": ["Violín", "Teclado eléctrico", "Saxofón"],
+        "respuestaCorrecta": "Violín"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

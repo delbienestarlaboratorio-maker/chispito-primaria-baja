@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 17,
+  "nombre": "Proyecto en mi lengua: Tojolabal",
+  "meses": "Todo el ciclo",
+  "temas": ["Nosotros y la comunidad", "Naturaleza", "Derechos Indígenas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b17-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "En la forma de pensar Tojolabal, no se usa mucho la palabra 'yo', sino la palabra 'nosotros'. Esto refleja la importancia de...",
+        "opciones": ["la comunidad", "ser egoísta", "estar solo"],
+        "respuestaCorrecta": "la comunidad"
+      },
+      {
+        "id": "p3-len-b17-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Para el pueblo Tojolabal, tanto los humanos como las plantas, animales y ríos tienen un 'corazón' o espíritu?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b17-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Aprender sobre el idioma Tojolabal nos ayuda a entender que en México tenemos derecho a...",
+        "opciones": ["hablar y educarnos en nuestra propia lengua", "hablar un solo idioma", "no ir a la escuela"],
+        "respuestaCorrecta": "hablar y educarnos en nuestra propia lengua"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

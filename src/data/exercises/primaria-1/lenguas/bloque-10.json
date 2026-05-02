@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 10,
+  "nombre": "Proyecto en mi lengua: Seri",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Seri", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b10-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Seri vive en el desierto y la costa del estado de...",
+        "opciones": ["Sonora", "Oaxaca", "Chiapas"],
+        "respuestaCorrecta": "Sonora"
+      },
+      {
+        "id": "p1-len-b10-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Seri también se llama a sí mismo Comcaac?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b10-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las personas que hablan Seri tienen una conexión muy fuerte con el...",
+        "opciones": ["mar y el desierto", "hielo y la nieve", "bosque y la selva"],
+        "respuestaCorrecta": "mar y el desierto"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

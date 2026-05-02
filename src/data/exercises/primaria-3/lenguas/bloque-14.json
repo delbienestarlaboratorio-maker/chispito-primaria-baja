@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 14,
+  "nombre": "Proyecto en mi lengua: Tsotsil",
+  "meses": "Todo el ciclo",
+  "temas": ["San Juan Chamula", "Sincretismo", "Tejidos"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b14-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "En los pueblos Tsotsiles, los rombos (diamantes) tejidos en la ropa tradicional representan...",
+        "opciones": ["el universo y el camino del sol", "un juego de mesa", "una marca de ropa"],
+        "respuestaCorrecta": "el universo y el camino del sol"
+      },
+      {
+        "id": "p3-len-b14-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿En la famosa iglesia de San Juan Chamula, los rituales mezclan creencias católicas con antiguas tradiciones mayas?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b14-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La ropa tradicional que usan los hombres Tsotsiles en lugares como Zinacantán es famosa por tener muchos bordados de...",
+        "opciones": ["flores de colores brillantes", "coches deportivos", "estrellas de mar"],
+        "respuestaCorrecta": "flores de colores brillantes"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

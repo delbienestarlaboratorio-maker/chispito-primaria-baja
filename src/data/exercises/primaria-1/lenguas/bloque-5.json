@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 5,
+  "nombre": "Proyecto en mi lengua: Maya",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Maya", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b5-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La civilización Maya construyó grandes...",
+        "opciones": ["pirámides", "rascacielos", "centros comerciales"],
+        "respuestaCorrecta": "pirámides"
+      },
+      {
+        "id": "p1-len-b5-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La lengua Maya todavía se habla en la actualidad por miles de personas?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b5-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La lengua Maya se habla mucho en la Península de...",
+        "opciones": ["Yucatán", "Baja California", "Florida"],
+        "respuestaCorrecta": "Yucatán"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

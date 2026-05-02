@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 4,
+  "nombre": "Proyecto en mi lengua: Huichol",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Wixárika", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b4-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Para el pueblo Wixárika (Huichol), una planta muy sagrada que crece en el desierto es...",
+        "opciones": ["el peyote", "el cactus común", "la sábila"],
+        "respuestaCorrecta": "el peyote"
+      },
+      {
+        "id": "p2-len-b4-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Los wixárikas hacen hermosos cuadros usando estambre de muchos colores?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b4-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El arte wixárika siempre cuenta historias sobre sus...",
+        "opciones": ["dioses y la naturaleza", "programas de televisión", "equipos de fútbol"],
+        "respuestaCorrecta": "dioses y la naturaleza"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 7,
+  "nombre": "Proyecto en mi lengua: Mazateco",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Mazateco", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b7-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La lengua Mazateca es famosa porque en algunos lugares las personas se pueden comunicar mediante...",
+        "opciones": ["silbidos", "aplausos", "golpes en la mesa"],
+        "respuestaCorrecta": "silbidos"
+      },
+      {
+        "id": "p1-len-b7-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El Mazateco se habla principalmente en el estado de Oaxaca?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b7-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las lenguas de México son un gran tesoro porque...",
+        "opciones": ["nos enseñan diversidad", "nos dan dinero", "nos hacen correr rápido"],
+        "respuestaCorrecta": "nos enseñan diversidad"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 8,
+  "nombre": "Proyecto en mi lengua: Mixteco",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Ñuu Savi", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b8-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los antiguos mixtecos eran expertos trabajando el...",
+        "opciones": ["oro y la plata", "plástico", "vidrio templado"],
+        "respuestaCorrecta": "oro y la plata"
+      },
+      {
+        "id": "p2-len-b8-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La región mixteca abarca partes de los estados de Oaxaca, Puebla y Guerrero?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b8-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El Mixteco tiene muchas 'variantes'. Esto significa que el idioma...",
+        "opciones": ["cambia un poco dependiendo del pueblo", "siempre es idéntico", "solo tiene 10 palabras"],
+        "respuestaCorrecta": "cambia un poco dependiendo del pueblo"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

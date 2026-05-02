@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 8,
+  "nombre": "Proyecto en mi lengua: Mixteco",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Mixteco", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b8-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Mixteco se llama a sí mismo 'Ñuu Savi', que significa el pueblo de la...",
+        "opciones": ["lluvia", "montaña", "nieve"],
+        "respuestaCorrecta": "lluvia"
+      },
+      {
+        "id": "p1-len-b8-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Los mixtecos crearon hermosos códices (libros antiguos) con dibujos?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b8-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El idioma Mixteco se habla mucho en el estado de...",
+        "opciones": ["Oaxaca", "Chihuahua", "Nuevo León"],
+        "respuestaCorrecta": "Oaxaca"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

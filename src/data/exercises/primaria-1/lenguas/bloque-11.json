@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 11,
+  "nombre": "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Tarahumara", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b11-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Tarahumara se llama a sí mismo Ralámuli, que significa...",
+        "opciones": ["los de los pies ligeros", "los hombres de maíz", "los hijos del sol"],
+        "respuestaCorrecta": "los de los pies ligeros"
+      },
+      {
+        "id": "p1-len-b11-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Los Ralámulis son muy famosos en todo el mundo por correr largas distancias?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b11-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Tarahumara vive en las hermosas barrancas del estado de...",
+        "opciones": ["Chihuahua", "Yucatán", "Veracruz"],
+        "respuestaCorrecta": "Chihuahua"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 15,
+  "nombre": "Proyecto en mi lengua: Yaqui",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Yaqui", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b15-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "En la Danza del Venado Yaqui, el bailarín se mueve imitando a un...",
+        "opciones": ["venado real", "robot", "perro dormido"],
+        "respuestaCorrecta": "venado real"
+      },
+      {
+        "id": "p2-len-b15-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Los Yaquis han luchado durante mucho tiempo para defender sus tierras y su agua en Sonora?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b15-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "A través de su lengua, los Yaquis enseñan a los niños a ser valientes y a...",
+        "opciones": ["proteger la naturaleza", "gastar mucha agua", "olvidar el pasado"],
+        "respuestaCorrecta": "proteger la naturaleza"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

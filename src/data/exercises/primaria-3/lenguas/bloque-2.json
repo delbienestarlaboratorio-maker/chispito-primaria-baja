@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 2,
+  "nombre": "Proyecto en mi lengua: Chichimeco",
+  "meses": "Todo el ciclo",
+  "temas": ["El norte antiguo", "Los cazadores-recolectores", "Identidad"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b2-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "En la época prehispánica, los grupos chichimecas eran principalmente...",
+        "opciones": ["cazadores y recolectores nómadas", "constructores de barcos", "comerciantes de seda"],
+        "respuestaCorrecta": "cazadores y recolectores nómadas"
+      },
+      {
+        "id": "p3-len-b2-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La región árida del norte donde habitaban los antiguos chichimecas se conoce históricamente como Aridoamérica?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b2-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Hoy en día, el idioma Chichimeca Jonaz sobrevive en algunas comunidades de...",
+        "opciones": ["Guanajuato", "Chiapas", "Yucatán"],
+        "respuestaCorrecta": "Guanajuato"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

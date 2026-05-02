@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 1,
+  "nombre": "Proyecto en mi lengua: Ch'ol",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Ch'ol", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b1-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las lenguas indígenas, como el Ch'ol, son parte de nuestra...",
+        "opciones": ["cultura e historia", "televisión", "comida rápida"],
+        "respuestaCorrecta": "cultura e historia"
+      },
+      {
+        "id": "p1-len-b1-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Es importante respetar a las personas que hablan una lengua indígena?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b1-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La lengua Ch'ol se habla principalmente en el estado de...",
+        "opciones": ["Chiapas", "Monterrey", "Jalisco"],
+        "respuestaCorrecta": "Chiapas"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

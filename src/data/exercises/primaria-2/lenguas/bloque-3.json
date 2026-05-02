@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 3,
+  "nombre": "Proyecto en mi lengua: Cora",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Cora", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b3-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Cora se llama a sí mismo 'Náayeri', que da nombre al estado actual de...",
+        "opciones": ["Nayarit", "Nuevo León", "Guerrero"],
+        "respuestaCorrecta": "Nayarit"
+      },
+      {
+        "id": "p2-len-b3-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Cora celebra tradiciones coloridas como la Semana Santa con los 'judíos' (hombres pintados)?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b3-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Aprender sobre el pueblo Cora nos enseña a respetar sus...",
+        "opciones": ["costumbres y creencias", "coches", "juguetes de plástico"],
+        "respuestaCorrecta": "costumbres y creencias"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

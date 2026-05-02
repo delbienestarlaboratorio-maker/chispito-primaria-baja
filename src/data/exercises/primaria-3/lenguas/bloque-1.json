@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 1,
+  "nombre": "Proyecto en mi lengua: Ch'ol",
+  "meses": "Todo el ciclo",
+  "temas": ["El legado Ch'ol", "Zonas Arqueológicas", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b1-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Muchos habitantes del pueblo Ch'ol viven cerca de la famosa zona arqueológica maya llamada...",
+        "opciones": ["Palenque", "Teotihuacán", "Tula"],
+        "respuestaCorrecta": "Palenque"
+      },
+      {
+        "id": "p3-len-b1-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El idioma Ch'ol pertenece a la familia de las lenguas mayenses?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b1-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Para preservar las lenguas indígenas, una acción muy importante en las escuelas es...",
+        "opciones": ["fomentar la educación bilingüe", "prohibir que se hablen", "obligar a hablar solo español"],
+        "respuestaCorrecta": "fomentar la educación bilingüe"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

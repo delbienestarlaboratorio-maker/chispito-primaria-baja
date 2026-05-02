@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 7,
+  "nombre": "Proyecto en mi lengua: Mazateco",
+  "meses": "Todo el ciclo",
+  "temas": ["Sierra Mazateca", "Medicina tradicional", "Silbidos"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b7-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La región donde vive el pueblo Mazateco se conoce como la Cañada y la Sierra Mazateca, ubicadas en el estado de...",
+        "opciones": ["Oaxaca", "Sinaloa", "Baja California Sur"],
+        "respuestaCorrecta": "Oaxaca"
+      },
+      {
+        "id": "p3-len-b7-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿María Sabina fue una sabia curandera mazateca que utilizaba hongos ('niños santos') para curar enfermedades del cuerpo y del espíritu?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b7-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Debido a que el Mazateco es una lengua tonal, los campesinos inventaron una forma de comunicarse a lo lejos llamada...",
+        "opciones": ["lenguaje silbado", "lenguaje de banderas", "lenguaje de humo"],
+        "respuestaCorrecta": "lenguaje silbado"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

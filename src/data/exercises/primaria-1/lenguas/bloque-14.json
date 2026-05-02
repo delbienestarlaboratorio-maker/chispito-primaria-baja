@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 14,
+  "nombre": "Proyecto en mi lengua: Tsotsil",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Tsotsil", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b14-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El Tsotsil es una lengua que se habla en las montañas del estado de...",
+        "opciones": ["Chiapas", "Sonora", "Durango"],
+        "respuestaCorrecta": "Chiapas"
+      },
+      {
+        "id": "p1-len-b14-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La palabra 'Tsotsil' significa 'hombre murciélago' en su propia lengua?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b14-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "En las comunidades Tsotsiles, las personas son muy talentosas creando hermosos...",
+        "opciones": ["textiles y ropa bordada", "videojuegos", "teléfonos celulares"],
+        "respuestaCorrecta": "textiles y ropa bordada"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

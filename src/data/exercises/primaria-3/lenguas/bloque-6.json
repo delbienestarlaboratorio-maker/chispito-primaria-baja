@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 6,
+  "nombre": "Proyecto en mi lengua: Mayo",
+  "meses": "Todo el ciclo",
+  "temas": ["Cultura Yoreme", "Danzas", "Naturaleza"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b6-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Mayo (Yoreme) comparte el noroeste de México y muchas tradiciones con el pueblo...",
+        "opciones": ["Yaqui", "Maya", "Mixteco"],
+        "respuestaCorrecta": "Yaqui"
+      },
+      {
+        "id": "p3-len-b6-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La música tradicional que acompaña la Danza del Venado se toca con instrumentos como flautas de carrizo y tambores de agua?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b6-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El nombre 'Yoreme', con el que se llaman a sí mismos los mayos, significa...",
+        "opciones": ["el pueblo que respeta la tradición", "el hombre de las nubes", "el guerrero del fuego"],
+        "respuestaCorrecta": "el pueblo que respeta la tradición"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 12,
+  "nombre": "Proyecto en mi lengua: Totonaco",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Totonaco", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b12-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La cultura Totonaca es muy conocida por la ceremonia de los Voladores de...",
+        "opciones": ["Papantla", "Acapulco", "Cancún"],
+        "respuestaCorrecta": "Papantla"
+      },
+      {
+        "id": "p1-len-b12-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El idioma Totonaco se habla principalmente en Veracruz y Puebla?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b12-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Una planta muy importante originaria de la región totonaca es la...",
+        "opciones": ["vainilla", "manzana", "fresa"],
+        "respuestaCorrecta": "vainilla"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

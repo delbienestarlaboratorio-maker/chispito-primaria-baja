@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 2,
+  "nombre": "Proyecto en mi lengua: Chichimeco",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Chichimeco", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b2-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El término 'Chichimeca' fue usado antiguamente para nombrar a varios pueblos del...",
+        "opciones": ["norte de México", "sur de México", "centro de Centroamérica"],
+        "respuestaCorrecta": "norte de México"
+      },
+      {
+        "id": "p2-len-b2-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Hoy en día, el Chichimeco Jonaz se habla principalmente en Guanajuato?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b2-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Preservar lenguas como el Chichimeco es importante porque...",
+        "opciones": ["cada lengua es una forma única de ver el mundo", "son fáciles de escribir", "se usan en internet"],
+        "respuestaCorrecta": "cada lengua es una forma única de ver el mundo"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

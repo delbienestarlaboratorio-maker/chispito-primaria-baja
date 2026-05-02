@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 4,
+  "nombre": "Proyecto en mi lengua: Huichol",
+  "meses": "Todo el ciclo",
+  "temas": ["Arte Wixárika", "Simbolismo", "Geografía"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b4-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "En el arte Wixárika (Huichol), un círculo de estambre que representa el 'ojo de Dios' para proteger a los niños se llama...",
+        "opciones": ["Tsikuri", "Sombrero", "Alebrije"],
+        "respuestaCorrecta": "Tsikuri"
+      },
+      {
+        "id": "p3-len-b4-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El venado, el maíz y el peyote son elementos sagrados muy comunes en el arte y cultura Wixárika?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b4-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los cuadros de estambre que cuentan historias y visiones de sus dioses se conocen como...",
+        "opciones": ["Nierikas", "Pinturas al óleo", "Murales de agua"],
+        "respuestaCorrecta": "Nierikas"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 16,
+  "nombre": "Proyecto en mi lengua: Zapoteco",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Zapoteco", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b16-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los Zapotecos construyeron una gran ciudad antigua llamada...",
+        "opciones": ["Monte Albán", "Teotihuacán", "Chichén Itzá"],
+        "respuestaCorrecta": "Monte Albán"
+      },
+      {
+        "id": "p1-len-b16-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El idioma Zapoteco se habla principalmente en Oaxaca?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b16-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los zapotecos son conocidos como la 'gente de las...'",
+        "opciones": ["nubes", "cavernas", "estrellas"],
+        "respuestaCorrecta": "nubes"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

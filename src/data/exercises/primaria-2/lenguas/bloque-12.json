@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 12,
+  "nombre": "Proyecto en mi lengua: Totonaco",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Totonaco", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b12-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La increíble ciudad antigua de El Tajín, famosa por su Pirámide de los Nichos, fue construida por el pueblo...",
+        "opciones": ["Totonaco", "Maya", "Seri"],
+        "respuestaCorrecta": "Totonaco"
+      },
+      {
+        "id": "p2-len-b12-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La vainilla, que da sabor a los helados, fue cultivada primero por los Totonacos?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b12-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "En la ceremonia de los Voladores de Papantla, los hombres 'vuelan' bajando de un...",
+        "opciones": ["poste o tronco muy alto", "avión pequeño", "edificio moderno"],
+        "respuestaCorrecta": "poste o tronco muy alto"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

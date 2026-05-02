@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 10,
+  "nombre": "Proyecto en mi lengua: Seri",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Comcaac", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b10-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Seri (Comcaac) vive en una zona de México que tiene...",
+        "opciones": ["mar y desierto juntos", "selvas muy húmedas", "glaciares y nieve"],
+        "respuestaCorrecta": "mar y desierto juntos"
+      },
+      {
+        "id": "p2-len-b10-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Seri fabrica hermosas cestas llamadas 'coritas' que toman mucho tiempo en hacerse?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b10-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Un animal marino muy respetado en la cultura Seri es...",
+        "opciones": ["la tortuga marina", "el pingüino", "el tiburón blanco"],
+        "respuestaCorrecta": "la tortuga marina"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

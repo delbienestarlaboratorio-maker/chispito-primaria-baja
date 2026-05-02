@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 9,
+  "nombre": "Proyecto en mi lengua: Náhuatl",
+  "meses": "Todo el ciclo",
+  "temas": ["Poesía Náhuatl", "Nezahualcóyotl", "Legado en el español"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b9-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Un famoso rey, poeta y arquitecto antiguo que escribió hermosos poemas en Náhuatl fue...",
+        "opciones": ["Nezahualcóyotl", "Benito Juárez", "Cristóbal Colón"],
+        "respuestaCorrecta": "Nezahualcóyotl"
+      },
+      {
+        "id": "p3-len-b9-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El náhuatl es una lengua aglutinante, lo que significa que junta muchas palabras pequeñas para hacer una palabra muy larga?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b9-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "La terminación '-tl' (como en tomate, cempasúchil o papalote) es muy característica del idioma...",
+        "opciones": ["Náhuatl", "Zapoteco", "Maya"],
+        "respuestaCorrecta": "Náhuatl"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

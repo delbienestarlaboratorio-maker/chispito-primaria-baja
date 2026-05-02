@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 3,
+  "nombre": "Proyecto en mi lengua: Cora",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Cora", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b3-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El pueblo Cora vive principalmente en las montañas del estado de...",
+        "opciones": ["Nayarit", "Quintana Roo", "Nuevo León"],
+        "respuestaCorrecta": "Nayarit"
+      },
+      {
+        "id": "p1-len-b3-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Aprender palabras en otras lenguas nos ayuda a conocer más sobre México?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b3-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las personas que hablan Cora también son conocidas por sus hermosas...",
+        "opciones": ["artesanías", "computadoras", "naves espaciales"],
+        "respuestaCorrecta": "artesanías"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

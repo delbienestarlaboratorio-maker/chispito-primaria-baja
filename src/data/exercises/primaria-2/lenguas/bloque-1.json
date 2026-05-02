@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 1,
+  "nombre": "Proyecto en mi lengua: Ch'ol",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Ch'ol", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b1-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La lengua Ch'ol es parte de una gran familia de lenguas llamadas...",
+        "opciones": ["Mayenses", "Nahuas", "Zapotecas"],
+        "respuestaCorrecta": "Mayenses"
+      },
+      {
+        "id": "p2-len-b1-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Ch'ol vive cerca de antiguas zonas arqueológicas mayas en Chiapas?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b1-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Para los pueblos indígenas, enseñar su lengua a los niños es muy importante para...",
+        "opciones": ["no perder sus tradiciones", "ganar concursos", "viajar a otros países"],
+        "respuestaCorrecta": "no perder sus tradiciones"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

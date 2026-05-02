@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 5,
+  "nombre": "Proyecto en mi lengua: Maya",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Maya hoy", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b5-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los antiguos mayas inventaron un símbolo matemático muy importante para el número...",
+        "opciones": ["cero", "cien", "mil"],
+        "respuestaCorrecta": "cero"
+      },
+      {
+        "id": "p2-len-b5-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Chichén Itzá es una ciudad maya famosa en todo el mundo?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b5-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Muchas personas en Yucatán aún hablan la lengua maya en su vida...",
+        "opciones": ["diaria", "solo en sueños", "solo en películas"],
+        "respuestaCorrecta": "diaria"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 11,
+  "nombre": "Proyecto en mi lengua: Tarahumara (Ralámuli)",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Ralámuli", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b11-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Las impresionantes Barrancas del Cobre están en el estado de...",
+        "opciones": ["Chihuahua", "Oaxaca", "Yucatán"],
+        "respuestaCorrecta": "Chihuahua"
+      },
+      {
+        "id": "p2-len-b11-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿Los Ralámuli corren carreras larguísimas que pueden durar días y noches enteras?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b11-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Para correr largas distancias, tradicionalmente usan sandalias hechas de...",
+        "opciones": ["llanta o cuero viejo", "nubes mágicas", "hielo"],
+        "respuestaCorrecta": "llanta o cuero viejo"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

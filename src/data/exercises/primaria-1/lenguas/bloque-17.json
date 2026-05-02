@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-1",
+  "materia": "lenguas",
+  "bloque": 17,
+  "nombre": "Proyecto en mi lengua: Tojolabal",
+  "meses": "Todo el ciclo",
+  "temas": ["Conociendo el Tojolabal", "Cultura e historia", "Respeto a las lenguas"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p1-len-b17-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La palabra Tojolabal significa 'discurso o palabra...'",
+        "opciones": ["verdadera", "rápida", "secreta"],
+        "respuestaCorrecta": "verdadera"
+      },
+      {
+        "id": "p1-len-b17-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El Tojolabal es una lengua originaria de Chiapas?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p1-len-b17-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Aprender a escuchar las lenguas indígenas nos ayuda a ser más...",
+        "opciones": ["respetuosos", "aburridos", "enojones"],
+        "respuestaCorrecta": "respetuosos"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

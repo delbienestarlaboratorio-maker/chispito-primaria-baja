@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-3",
+  "materia": "lenguas",
+  "bloque": 13,
+  "nombre": "Proyecto en mi lengua: Tseltal",
+  "meses": "Todo el ciclo",
+  "temas": ["Los Altos de Chiapas", "Familia Mayense", "Agricultura"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p3-len-b13-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "El Tseltal y el Tsotsil son lenguas hermanas que se hablan en la región montañosa conocida como...",
+        "opciones": ["Los Altos de Chiapas", "La Huasteca", "La Península de Yucatán"],
+        "respuestaCorrecta": "Los Altos de Chiapas"
+      },
+      {
+        "id": "p3-len-b13-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La milpa (el cultivo de maíz, frijol y calabaza) es fundamental para la vida y la cultura Tseltal?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p3-len-b13-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "En las comunidades Tseltales, la máxima autoridad que toma las decisiones suele ser...",
+        "opciones": ["la asamblea del pueblo", "un rey", "un presidente de otro país"],
+        "respuestaCorrecta": "la asamblea del pueblo"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 6,
+  "nombre": "Proyecto en mi lengua: Mayo",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Yoreme", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b6-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "La palabra 'Yoreme', como se llama a sí mismo el pueblo Mayo, significa...",
+        "opciones": ["el que respeta la tradición", "el que vuela", "el que duerme mucho"],
+        "respuestaCorrecta": "el que respeta la tradición"
+      },
+      {
+        "id": "p2-len-b6-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿El pueblo Mayo comparte la Danza del Venado con el pueblo Yaqui?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b6-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los Yoremes viven principalmente en valles y costas del noroeste de...",
+        "opciones": ["México", "Estados Unidos", "Guatemala"],
+        "respuestaCorrecta": "México"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}

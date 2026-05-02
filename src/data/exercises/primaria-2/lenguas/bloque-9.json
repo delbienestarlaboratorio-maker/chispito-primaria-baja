@@ -1,0 +1,35 @@
+{
+  "grado": "primaria-2",
+  "materia": "lenguas",
+  "bloque": 9,
+  "nombre": "Proyecto en mi lengua: Náhuatl",
+  "meses": "Todo el ciclo",
+  "temas": ["El pueblo Nahua", "Tradiciones", "Palabras en nuestra lengua"],
+  "totalEjercicios": 3,
+  "ejercicios": {
+    "v1": [
+      {
+        "id": "p2-len-b9-1",
+        "tipo": "opcion_multiple",
+        "pregunta": "Los mexicas, que fundaron Tenochtitlan, hablaban...",
+        "opciones": ["Náhuatl", "Maya", "Inglés"],
+        "respuestaCorrecta": "Náhuatl"
+      },
+      {
+        "id": "p2-len-b9-2",
+        "tipo": "verdadero_falso",
+        "pregunta": "¿La palabra náhuatl 'cacao' nos dio el delicioso 'chocolate'?",
+        "respuestaCorrecta": "true"
+      },
+      {
+        "id": "p2-len-b9-3",
+        "tipo": "opcion_multiple",
+        "pregunta": "El tianguis es un mercado tradicional. La palabra 'tianguis' viene del...",
+        "opciones": ["Náhuatl", "Español", "Alemán"],
+        "respuestaCorrecta": "Náhuatl"
+      }
+    ],
+    "v2": [],
+    "preview": []
+  }
+}
