@@ -1,4 +1,4 @@
-# Cloudflare Pages configuration for Chispito Primaria Baja (1°-3°)
+﻿# Cloudflare Pages configuration for Chispito Primaria Baja (1-3)
 name = "chispito-primaria-baja"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
